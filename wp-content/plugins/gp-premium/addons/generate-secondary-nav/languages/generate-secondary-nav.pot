@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Secondary Navigation\n"
+"POT-Creation-Date: 2015-05-19 10:39-0800\n"
+"PO-Revision-Date: 2015-05-19 10:39-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr ""
+
+#: inc/functions.php:7
+msgid "Secondary Menu"
+msgstr ""
+
+#: inc/functions.php:97 inc/functions.php:109
+msgid "Secondary Navigation"
+msgstr ""
+
+#: inc/functions.php:126
+msgid "Mobile Label"
+msgstr ""
+
+#: inc/functions.php:151
+msgid "Navigation Layout"
+msgstr ""
+
+#: inc/functions.php:154
+msgid "Fluid / Full Width"
+msgstr ""
+
+#: inc/functions.php:155
+msgid "Contained"
+msgstr ""
+
+#: inc/functions.php:181
+msgid "Navigation Position"
+msgstr ""
+
+#: inc/functions.php:184
+msgid "Below Header"
+msgstr ""
+
+#: inc/functions.php:185
+msgid "Above Header"
+msgstr ""
+
+#: inc/functions.php:186
+msgid "Float Right"
+msgstr ""
+
+#: inc/functions.php:187
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/functions.php:188
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/functions.php:189
+msgid "No Navigation"
+msgstr ""
+
+#: inc/functions.php:215
+msgid "Navigation Alignment"
+msgstr ""
+
+#: inc/functions.php:218
+msgid "Left"
+msgstr ""
+
+#: inc/functions.php:219
+msgid "Center"
+msgstr ""
+
+#: inc/functions.php:220
+msgid "Right"
+msgstr ""
+
+#: inc/functions.php:236
+msgid "Secondary Navigation Spacing"
+msgstr ""
+
+#: inc/functions.php:249
+msgid "Secondary Menu Items"
+msgstr ""
+
+#: inc/functions.php:250
+msgid "These options control the size of your secondary menu items."
+msgstr ""
+
+#: inc/functions.php:254
+msgid "Left/Right Spacing"
+msgstr ""
+
+#: inc/functions.php:255
+msgid "Height"
+msgstr ""
+
+#: inc/functions.php:321
+msgid "Secondary Sub-menu Item Height"
+msgstr ""
+
+#: inc/functions.php:322
+msgid "The top and bottom spacing of secondary sub-menu items."
+msgstr ""
+
+#: inc/functions.php:359
+msgid "Secondary Navigation Colors"
+msgstr ""
+
+#: inc/functions.php:371 inc/functions.php:450
+msgid "Background"
+msgstr ""
+
+#: inc/functions.php:377 inc/functions.php:456
+msgid "Text"
+msgstr ""
+
+#: inc/functions.php:383 inc/functions.php:462
+msgid "Background Hover"
+msgstr ""
+
+#: inc/functions.php:389 inc/functions.php:468
+msgid "Text Hover"
+msgstr ""
+
+#: inc/functions.php:395 inc/functions.php:474
+msgid "Background Current"
+msgstr ""
+
+#: inc/functions.php:401 inc/functions.php:480
+msgid "Text Current"
+msgstr ""
+
+#: inc/functions.php:438
+msgid "Secondary Sub-Navigation Colors"
+msgstr ""
+
+#: inc/functions.php:517
+msgid "Secondary Navigation Typography"
+msgstr ""
+
+#: inc/functions.php:539
+msgid "Secondary navigation"
+msgstr ""
+
+#: inc/functions.php:560
+msgid "Font weight"
+msgstr ""
+
+#: inc/functions.php:582
+msgid "Text transform"
+msgstr ""
+
+#: inc/functions.php:605
+msgid "Font size"
+msgstr ""
+
+#: inc/functions.php:623
+msgid "Secondary Background Images"
+msgstr ""
+
+#: inc/functions.php:641
+msgid "Navigation"
+msgstr ""
+
+#: inc/functions.php:683 inc/functions.php:745 inc/functions.php:807
+#: inc/functions.php:869 inc/functions.php:943 inc/functions.php:1005
+#: inc/functions.php:1067
+msgid "Repeat"
+msgstr ""
+
+#: inc/functions.php:684 inc/functions.php:746 inc/functions.php:808
+#: inc/functions.php:870 inc/functions.php:944 inc/functions.php:1006
+#: inc/functions.php:1068
+msgid "Repeat x"
+msgstr ""
+
+#: inc/functions.php:685 inc/functions.php:747 inc/functions.php:809
+#: inc/functions.php:871 inc/functions.php:945 inc/functions.php:1007
+#: inc/functions.php:1069
+msgid "Repeat y"
+msgstr ""
+
+#: inc/functions.php:686 inc/functions.php:748 inc/functions.php:810
+#: inc/functions.php:872 inc/functions.php:946 inc/functions.php:1008
+#: inc/functions.php:1070
+msgid "No Repeat"
+msgstr ""
+
+#: inc/functions.php:703
+msgid "Navigation Item"
+msgstr ""
+
+#: inc/functions.php:765
+msgid "Navigation Item Hover"
+msgstr ""
+
+#: inc/functions.php:827
+msgid "Navigation Item Current"
+msgstr ""
+
+#: inc/functions.php:901
+msgid "Sub-Navigation Item"
+msgstr ""
+
+#: inc/functions.php:963
+msgid "Sub-Navigation Item Hover"
+msgstr ""
+
+#: inc/functions.php:1025
+msgid "Sub-Navigation Item Current"
+msgstr ""
+
+#: inc/functions.php:1277
+msgid "Skip to content"
+msgstr ""
+
+#: inc/ie.php:14
+msgid "Warning: This will delete your settings."
+msgstr ""
+
+#: inc/ie.php:16
+msgid "Delete Secondary Navigation Customizer Settings"
+msgstr ""
+
+#: inc/ie.php:52
+msgid "Export Secondary Navigation Customizer Settings"
+msgstr ""
+
+#: inc/verification.php:39
+msgid ""
+"Want updates served directly to your Dashboard? Activate the email you "
+"purchased your add-ons with here."
+msgstr ""
+
+#: inc/verification.php:51 inc/verification.php:65
+msgid "Email"
+msgstr ""
+
+#: inc/verification.php:58
+msgid "Deactivate Email"
+msgstr ""
+
+#: inc/verification.php:70
+msgid "Activate Email"
+msgstr ""
+
+#: inc/verification.php:83
+msgid "Save Email"
+msgstr ""
+
+#: inc/verification.php:94
+msgid "Enable All Updates"
+msgstr ""
+
+#: inc/verification.php:154
+msgid "Disable Updates"
+msgstr ""
+
+#: inc/verification.php:164
+msgid "Enable Updates"
+msgstr ""
+
+#: inc/verification.php:750
+msgid "Email activation failed. This email does not exist in our records."
+msgstr ""
+
+#: inc/verification.php:754
+msgid "Email activated."
+msgstr ""
+
+#: inc/verification.php:758
+msgid "Email deactivated."
+msgstr ""
+
+#: inc/verification.php:762
+msgid "License failed."
+msgstr ""
+
+#: inc/verification.php:766
+msgid "License activated."
+msgstr ""
+
+#: inc/verification.php:770
+msgid "Licenses activated."
+msgstr ""
+
+#: inc/verification.php:774
+msgid "Deactivation failed."
+msgstr ""
+
+#: inc/verification.php:778
+msgid "License deactivated."
+msgstr ""

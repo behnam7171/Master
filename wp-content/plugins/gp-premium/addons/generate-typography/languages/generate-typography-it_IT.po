@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Typography\n"
+"POT-Creation-Date: 2015-06-17 15:10+0100\n"
+"PO-Revision-Date: 2015-06-26 08:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+"È disponibile una nuova versione di %1$s . <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">Vedi i dettagli della  versione %3$s </a>."
+
+#: inc/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+"E' disponibile una nuova versione di %1$s <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">Visualizza i dettagli della versione %3$s</a> "
+"oppure <a href=\"%4$s\">aggiorna adesso</a>."
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+"Non hai diritti di accesso sufficienti per effettuare aggiornamenti al "
+"plugin"
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr "Errore"
+
+#: inc/customizer/google-font-dropdown-custom-control.php:34
+msgid "Default fonts"
+msgstr "Carattere predefinito"
+
+#: inc/customizer/google-font-dropdown-custom-control.php:53
+msgid "Google fonts"
+msgstr "Google fonts"
+
+#: inc/customizer/google-font-dropdown-custom-control.php:63
+msgid "Font family"
+msgstr "Famiglia caratteri"
+
+#: inc/functions.php:67
+msgid "Typography"
+msgstr "Typography"
+
+#: inc/functions.php:78
+msgid "Body Typography"
+msgstr "Carattere del Body"
+
+#: inc/functions.php:100
+msgid "Body"
+msgstr "Body"
+
+#: inc/functions.php:121 inc/functions.php:221 inc/functions.php:308
+#: inc/functions.php:408 inc/functions.php:479 inc/functions.php:497
+#: inc/functions.php:515 inc/functions.php:666
+msgid "Font weight"
+msgstr "Corpo del carattere"
+
+#: inc/functions.php:143 inc/functions.php:243 inc/functions.php:330
+#: inc/functions.php:430 inc/functions.php:483 inc/functions.php:501
+#: inc/functions.php:519 inc/functions.php:688
+msgid "Text transform"
+msgstr "Trasforma Testo"
+
+#: inc/functions.php:165 inc/functions.php:265 inc/functions.php:352
+#: inc/functions.php:452 inc/functions.php:710
+msgid "Font size"
+msgstr "Dimensione carattere"
+
+#: inc/functions.php:178
+msgid "Header Typography"
+msgstr "Caratteri della Intestazione"
+
+#: inc/functions.php:200
+msgid "Site title"
+msgstr "Titolo del sito"
+
+#: inc/functions.php:287
+msgid "Site tagline"
+msgstr "Slogan del sito"
+
+#: inc/functions.php:365
+msgid "Navigation Typography"
+msgstr "Carattere della Navigazione"
+
+#: inc/functions.php:387
+msgid "Site navigation"
+msgstr "Navigazione del Sito"
+
+#: inc/functions.php:465
+msgid "Content Typography"
+msgstr "Caratteri del Contenuto"
+
+#: inc/functions.php:475
+msgid "Heading 1 (H1)"
+msgstr "Titoli (H1)"
+
+#: inc/functions.php:487 inc/functions.php:505 inc/functions.php:523
+msgid "Font-size"
+msgstr "Dimensione dei Caratteri"
+
+#: inc/functions.php:493
+msgid "Heading 2 (H2)"
+msgstr "Titoli (H2)"
+
+#: inc/functions.php:511
+msgid "Heading 3 (H3)"
+msgstr "Titoli (H3)"
+
+#: inc/functions.php:623
+msgid "Widget Typography"
+msgstr "Caratteri dei Widget"
+
+#: inc/functions.php:645
+msgid "Widget titles"
+msgstr "Titoli dei Widget"
+
+#: inc/functions.php:731
+msgid "Content font size"
+msgstr "Dimensione dei caratteri del contenuto"
+
+#: inc/verification.php:39
+msgid ""
+"Want updates served directly to your Dashboard? Activate the email you "
+"purchased your add-ons with here."
+msgstr ""
+"Vorresti aggiornamenti automatici direttamente sulla tua dashboard? "
+"Attiva la email con la quale hai acquistato i tuoi add-ons inserendola in "
+"questo campo."
+
+#: inc/verification.php:51 inc/verification.php:65
+msgid "Email"
+msgstr "Email"
+
+#: inc/verification.php:58
+msgid "Deactivate Email"
+msgstr "Disattiva Email"
+
+#: inc/verification.php:70
+msgid "Activate Email"
+msgstr "Attivare Email"
+
+#: inc/verification.php:83
+msgid "Save Email"
+msgstr "Salva Email"
+
+#: inc/verification.php:94
+msgid "Enable All Updates"
+msgstr "Attiva Tutti gli aggiornamenti"
+
+#: inc/verification.php:154
+msgid "Disable Updates"
+msgstr "Disabilita gli aggiornamenti"
+
+#: inc/verification.php:164
+msgid "Enable Updates"
+msgstr "Attiva gli aggiornamenti"
+
+#: inc/verification.php:750
+msgid "Email activation failed. This email does not exist in our records."
+msgstr ""
+"L'attivazione della tua email non è andata a buon fine. Questa email non "
+"è presente nei nostri archivi."
+
+#: inc/verification.php:754
+msgid "Email activated."
+msgstr "Email attivata"
+
+#: inc/verification.php:758
+msgid "Email deactivated."
+msgstr "Email disattivata"
+
+#: inc/verification.php:762
+msgid "License failed."
+msgstr "Licenza rifiutata"
+
+#: inc/verification.php:766
+msgid "License activated."
+msgstr "Licenza attivata"
+
+#: inc/verification.php:770
+msgid "Licenses activated."
+msgstr "Lecenze attivate"
+
+#: inc/verification.php:774
+msgid "Deactivation failed."
+msgstr "La disattivazioe non è andata a buon fine"
+
+#: inc/verification.php:778
+msgid "License deactivated."
+msgstr "Licenza disattivata"

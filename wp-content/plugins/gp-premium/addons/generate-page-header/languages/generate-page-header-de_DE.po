@@ -1,0 +1,771 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Page Header\n"
+"POT-Creation-Date: 2015-04-04 15:42-0800\n"
+"PO-Revision-Date: 2015-04-14 19:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr "Sie haben keine Berechtigung Plugin-Updates zu installieren"
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr "Fehler"
+
+#: inc/admin-options.php:72 inc/admin-options.php:139
+msgid "Blog Page Header"
+msgstr "Blog-Seitenkopf"
+
+#: inc/admin-options.php:74
+msgid "Add a page header to your blog."
+msgstr "Fügen Sie einen Seitenkopf zu Ihrem Blog hinzu."
+
+#: inc/admin-options.php:75
+msgid ""
+"This will only show up on the page you have set as your \"Posts Page\". To "
+"add a page header to specific pages, use the metabox included while adding "
+"your content."
+msgstr ""
+"Dies wird nur auf der Seite angezeigt, die Sie als Ihre \"Beiträge-Seite\" "
+"eingestellt haben. Um einen Seitenkopf für bestimmte Seiten hinzuzufügen, "
+"verwenden Sie die Metabox."
+
+#: inc/admin-options.php:79
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: inc/admin-options.php:81
+msgid "Save Settings"
+msgstr "Einstellungen speichern"
+
+#: inc/admin-options.php:142
+msgid ""
+"Use these options to add a page header to your Blog. Add page headers to "
+"your pages by using the metabox while editing them."
+msgstr ""
+"Verwenden Sie diese Optionen, um einen Seitenkopf zu Ihrem Blog hinzufügen. "
+"Fügen Sie Seitenköpfe zu Ihren Seiten, mithilfe der Metabox beim Bearbeiten, "
+"hinzu."
+
+#: inc/admin-options.php:147
+msgid "Image Options"
+msgstr "Bildoptionen"
+
+#: inc/admin-options.php:148
+msgid "Upload an image to use in your page header"
+msgstr "Hochladen eines Bildes zur Verwendung im Seitenkopf"
+
+#: inc/admin-options.php:153 inc/functions.php:848
+msgid "Image"
+msgstr "Bild"
+
+#: inc/admin-options.php:154
+msgid "Upload an image to be used as your page header."
+msgstr "Hochladen eines Bildes um es als Seitenkopf zu verwenden."
+
+#: inc/admin-options.php:159 inc/functions.php:868
+msgid "Page Header Link"
+msgstr "Seitenkopf-Link"
+
+#: inc/admin-options.php:160
+msgid "Make your page header image clickable by adding a URL. (optional)"
+msgstr "Um das Kopfbild zu verlinken, fügen Sie eine URL hinzu (optional)."
+
+#: inc/admin-options.php:166 inc/functions.php:873
+msgid "Hard Crop"
+msgstr "Zuschneiden"
+
+#: inc/admin-options.php:167
+msgid "Turn hard cropping or of off."
+msgstr "Beschneiden der Bilder an- oder ausschalten."
+
+#: inc/admin-options.php:171 inc/admin-options.php:224
+#: inc/admin-options.php:235 inc/admin-options.php:246
+#: inc/admin-options.php:257 inc/admin-options.php:268
+#: inc/admin-options.php:279 inc/functions.php:876
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: inc/admin-options.php:172 inc/admin-options.php:225
+#: inc/admin-options.php:236 inc/admin-options.php:247
+#: inc/admin-options.php:258 inc/admin-options.php:269
+#: inc/admin-options.php:280 inc/functions.php:875
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: inc/admin-options.php:177
+msgid "Hard Crop Position"
+msgstr "Position des zugeschnittenen Bildes"
+
+#: inc/admin-options.php:178
+msgid "Choose where to crop the image."
+msgstr "Wählen Sie, wo Sie das Bild zuschneiden."
+
+#: inc/admin-options.php:182 inc/admin-options.php:302 inc/functions.php:884
+#: inc/functions.php:958
+msgid "Center"
+msgstr "Mittig"
+
+#: inc/admin-options.php:183
+msgid "Top Left"
+msgstr "Oben links"
+
+#: inc/admin-options.php:184
+msgid "Top Right"
+msgstr "Oben rechts"
+
+#: inc/admin-options.php:185
+msgid "Bottom Left"
+msgstr "Unten links"
+
+#: inc/admin-options.php:186
+msgid "Bottom Right"
+msgstr "Unten rechts"
+
+#: inc/admin-options.php:187 inc/admin-options.php:301 inc/functions.php:889
+#: inc/functions.php:957
+msgid "Left"
+msgstr "Links"
+
+#: inc/admin-options.php:188 inc/admin-options.php:303 inc/functions.php:890
+#: inc/functions.php:959
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/admin-options.php:193 inc/functions.php:901
+msgid "Image Width"
+msgstr "Bildbreite"
+
+#: inc/admin-options.php:194
+msgid "Choose your image width in pixels. (integer only, default is 1200)"
+msgstr ""
+"Wählen Sie die Breite des Bildes in Pixel. (Integer, Standard ist 1200)"
+
+#: inc/admin-options.php:200 inc/functions.php:906
+msgid "Image Height"
+msgstr "Bildhöhe"
+
+#: inc/admin-options.php:201
+msgid ""
+"Choose your image height in pixels. Use \"0\" or leave blank to calculate "
+"height based on width. (integer only, default is 0) "
+msgstr ""
+"Wählen Sie die Höhe des Bildes in Pixel. Verwenden Sie \"0\" oder lassen Sie "
+"das Feld frei, um die Höhe zu berechnen. (Integer, Standard ist 0)"
+
+#: inc/admin-options.php:207
+msgid "Content Options"
+msgstr "Inhaltsoptionen"
+
+#: inc/admin-options.php:208
+msgid "Add content to your page header"
+msgstr "Hinzufügen von Inhalten zu Ihrem Seitenkopf"
+
+#: inc/admin-options.php:213 inc/functions.php:849 inc/functions.php:915
+msgid "Content"
+msgstr "Inhalt"
+
+#: inc/admin-options.php:214
+msgid "Add your content to the page header. HTML and shortcodes allowed."
+msgstr ""
+"Hinzufügen von Inhalten zu Ihrem Seitenkopf. HTML und Shortcodes sind "
+"erlaubt."
+
+#: inc/admin-options.php:219
+msgid "Add Paragraphs"
+msgstr "Absätze automatisch hinzufügen"
+
+#: inc/admin-options.php:220
+msgid "Wrap your text in paragraph tags automatically."
+msgstr "Umschließen Sie Ihren Text mit Absatz-Tags automatisch."
+
+#: inc/admin-options.php:230
+msgid "Add Padding"
+msgstr "Abstand hinzufügen"
+
+#: inc/admin-options.php:231
+msgid "Add padding around your content."
+msgstr "Abstand um den Inhalt hinzufügen."
+
+#: inc/admin-options.php:241
+msgid "Image Background"
+msgstr "Hintergrundbild"
+
+#: inc/admin-options.php:242
+msgid ""
+"Use the image uploaded above as a background image for your content. "
+"(requires image uploaded above)"
+msgstr ""
+"Verwende das Hintergrundbild als Bild für den Inhalt. (erfordert, dass ein "
+"Bild oben hochgeladen wurde)"
+
+#: inc/admin-options.php:252
+msgid "Parallax Background"
+msgstr "Parallax Hintergrund"
+
+#: inc/admin-options.php:253
+msgid ""
+"Add a cool parallax effect to your background image. (requires the image "
+"background option to be checked)"
+msgstr ""
+"Fügen Sie einen coolen Parallax-Effekt zu Ihrem Hintergrundbild hinzu. "
+"(erfordert die aktivierte Option Hintergrundbild)"
+
+#: inc/admin-options.php:263
+msgid "Full Screen"
+msgstr "Vollbild"
+
+#: inc/admin-options.php:264
+msgid "Make your page header content area full screen."
+msgstr "Setze den Inhaltsbereich des Seitenkopfs als Vollbild."
+
+#: inc/admin-options.php:274
+msgid "Vertical Center"
+msgstr "vertikale Mitte"
+
+#: inc/admin-options.php:275
+msgid "Center your page header content vertically."
+msgstr "Zentriere Inhalt des Seitenkopfs vertikal."
+
+#: inc/admin-options.php:285
+msgid "Container Type"
+msgstr "Container-Typ"
+
+#: inc/admin-options.php:286
+msgid "Choose whether the page header is contained or fluid."
+msgstr "Wählen Sie, ob der Seitenkopf enthalten ist oder flexibel."
+
+#: inc/admin-options.php:290 inc/functions.php:947
+msgid "Contained"
+msgstr "Enthalten"
+
+#: inc/admin-options.php:291 inc/functions.php:948
+msgid "Fluid"
+msgstr "Fluid"
+
+#: inc/admin-options.php:296
+msgid "Text Alignment"
+msgstr "Textausrichtung"
+
+#: inc/admin-options.php:297
+msgid "Choose the horizontal alignment of your content."
+msgstr "Wählen Sie die horizontale Ausrichtung des Inhalts."
+
+#: inc/admin-options.php:308
+msgid "Top/Bottom Padding"
+msgstr "Oberer/Unterer Abstand"
+
+#: inc/admin-options.php:309
+msgid ""
+"Choose your content padding in pixels. This will add space above and below "
+"your content. (integer only) "
+msgstr ""
+"Wählen Sie Ihren Abstand im Inhaltsbereich in Pixel. Dadurch wird Raum "
+"oberhalb und unterhalb Ihrer Inhalte hinzugefügt. (nur ganze Zahlen)"
+
+#: inc/admin-options.php:315
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: inc/admin-options.php:321
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: inc/admin-options.php:327
+msgid "Link Color"
+msgstr "Linkfarbe"
+
+#: inc/admin-options.php:333
+msgid "Link Hover Color"
+msgstr "Linkfarbe bei Mouse over"
+
+#: inc/cmb2/CMB2.php:122 inc/cmb2/includes/CMB2.php:112
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+"Metabox Konfiguration ist erforderlich, um eine ID-Parameter zu erhalten"
+
+#: inc/cmb2/CMB2.php:311 inc/cmb2/includes/CMB2.php:302
+msgid "Click to toggle"
+msgstr "Klicken Sie zum Umschalten"
+
+#: inc/cmb2/includes/CMB2_Ajax.php:37
+msgid "Please Try Again"
+msgstr "Bitte versuchen Sie es erneut."
+
+#: inc/cmb2/includes/CMB2_Ajax.php:133
+msgid "Remove Embed"
+msgstr "Einbindungscode entfernen"
+
+#: inc/cmb2/includes/CMB2_Ajax.php:137
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Keine oEmbed gefunden für%s. Weitere Infos unter"
+
+#: inc/cmb2/includes/CMB2_Field.php:885
+msgid "Add Group"
+msgstr "Gruppe hinzufügen"
+
+#: inc/cmb2/includes/CMB2_Field.php:886
+msgid "Remove Group"
+msgstr "Gruppe entfernen"
+
+#: inc/cmb2/includes/CMB2_Field.php:908 inc/cmb2/includes/CMB2_Field.php:912
+msgid "None"
+msgstr "Keine"
+
+#: inc/cmb2/includes/CMB2_Types.php:294
+msgid "Add Row"
+msgstr "Zeile hinzufügen"
+
+#: inc/cmb2/includes/CMB2_Types.php:353 inc/cmb2/includes/CMB2_Types.php:986
+#: inc/cmb2/includes/CMB2_hookup.php:183
+msgid "Remove"
+msgstr "Entfernen"
+
+#: inc/cmb2/includes/CMB2_Types.php:722 inc/cmb2/includes/CMB2_Types.php:770
+msgid "No terms"
+msgstr "Keine Begriffe"
+
+#: inc/cmb2/includes/CMB2_Types.php:835
+msgid "Add or Upload Files"
+msgstr "Hinzufügen oder Dateien hochladen"
+
+#: inc/cmb2/includes/CMB2_Types.php:893
+msgid "Add or Upload File"
+msgstr "Hinzufügen oder Dateien hochladen"
+
+#: inc/cmb2/includes/CMB2_Types.php:967 inc/cmb2/includes/CMB2_hookup.php:182
+msgid "Remove Image"
+msgstr "Bild entfernen"
+
+#: inc/cmb2/includes/CMB2_Types.php:981 inc/cmb2/includes/CMB2_hookup.php:184
+msgid "File:"
+msgstr "Datei:"
+
+#: inc/cmb2/includes/CMB2_Types.php:984 inc/cmb2/includes/CMB2_hookup.php:185
+msgid "Download"
+msgstr "Herunterladen"
+
+#: inc/cmb2/includes/CMB2_hookup.php:128 inc/cmb2/includes/CMB2_hookup.php:165
+msgid "Clear"
+msgstr "Entfernen"
+
+#: inc/cmb2/includes/CMB2_hookup.php:129
+msgid "Default"
+msgstr "Standard"
+
+#: inc/cmb2/includes/CMB2_hookup.php:130
+msgid "Select Color"
+msgstr "Farbe auswählen"
+
+#: inc/cmb2/includes/CMB2_hookup.php:131
+msgid "Current Color"
+msgstr "Aktuelle Farbe"
+
+#: inc/cmb2/includes/CMB2_hookup.php:155
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+#: inc/cmb2/includes/CMB2_hookup.php:156
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Sonntag, Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag"
+
+#: inc/cmb2/includes/CMB2_hookup.php:157
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "So, Mo, Di, Mi, Do, Fr, Sa"
+
+#: inc/cmb2/includes/CMB2_hookup.php:158
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Son, Mon, Die, Mit, Don, Fre, Sam"
+
+#: inc/cmb2/includes/CMB2_hookup.php:159
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+"Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, "
+"November, Dezember"
+
+#: inc/cmb2/includes/CMB2_hookup.php:160
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Jan, Feb, Mar, Apr, Mai, Jun, Jul, Aug, Sep, Okt, Nov, Dez"
+
+#: inc/cmb2/includes/CMB2_hookup.php:161
+msgid "Next"
+msgstr "Vorwärts"
+
+#: inc/cmb2/includes/CMB2_hookup.php:162
+msgid "Prev"
+msgstr "Vorheriger"
+
+#: inc/cmb2/includes/CMB2_hookup.php:163
+msgid "Today"
+msgstr "Heute"
+
+#: inc/cmb2/includes/CMB2_hookup.php:164 inc/cmb2/includes/CMB2_hookup.php:174
+msgid "Done"
+msgstr "Fertig"
+
+#: inc/cmb2/includes/CMB2_hookup.php:168
+msgid "Choose Time"
+msgstr "Zeit wählen"
+
+#: inc/cmb2/includes/CMB2_hookup.php:169
+msgid "Time"
+msgstr "Zeit"
+
+#: inc/cmb2/includes/CMB2_hookup.php:170
+msgid "Hour"
+msgstr "Stunde"
+
+#: inc/cmb2/includes/CMB2_hookup.php:171
+msgid "Minute"
+msgstr "Minute"
+
+#: inc/cmb2/includes/CMB2_hookup.php:172
+msgid "Second"
+msgstr "Sekunde"
+
+#: inc/cmb2/includes/CMB2_hookup.php:173
+msgid "Now"
+msgstr "Jetzt"
+
+#: inc/cmb2/includes/CMB2_hookup.php:175
+msgid "hh:mm TT"
+msgstr "hh: mm TT"
+
+#: inc/cmb2/includes/CMB2_hookup.php:181
+msgid "Use this file"
+msgstr "Diese Datei verwenden"
+
+#: inc/cmb2/includes/CMB2_hookup.php:186
+msgid "Select / Deselect All"
+msgstr "Alles / Nichts auswählen"
+
+#: inc/cmb2/includes/helper-functions.php:254
+msgid "Save"
+msgstr "Speichern"
+
+#: inc/functions.php:694 inc/functions.php:1273
+msgid "Page Header"
+msgstr "Kopfbereich"
+
+#: inc/functions.php:860
+msgid "Page Header Image"
+msgstr "Kopfzeilen Bild"
+
+#: inc/functions.php:864
+msgid "Add Image"
+msgstr "Bild hinzufügen"
+
+#: inc/functions.php:882
+msgid "Image Crop Position"
+msgstr "Position des zugeschnittenen Bildes"
+
+#: inc/functions.php:885
+msgid "Top left"
+msgstr "Oben links"
+
+#: inc/functions.php:886
+msgid "Top right"
+msgstr "Oben rechts"
+
+#: inc/functions.php:887
+msgid "Bottom left"
+msgstr "Unten links"
+
+#: inc/functions.php:888
+msgid "Bottom right"
+msgstr "Unten rechts"
+
+#: inc/functions.php:908
+msgid "Use \"0\" or leave blank to calculate height based on width."
+msgstr ""
+"Verwenden Sie \"0\" oder lassen Sie das Feld frei, um die Höhe basierend auf "
+"der Breite zu berechnen."
+
+#: inc/functions.php:917
+msgid "HTML and shortcodes allowed."
+msgstr "HTML und Shortcodes erlaubt."
+
+#: inc/functions.php:920
+msgid "Automatically add paragraphs"
+msgstr "Absätze automatisch hinzufügen"
+
+#: inc/functions.php:923
+msgid "Add padding"
+msgstr "Abstand hinzufügen"
+
+#: inc/functions.php:927
+msgid "Use image (from image tab) as a background image?"
+msgstr "Verwende Bild (von Registerkarte Bild) als Hintergrundbild?"
+
+#: inc/functions.php:933
+msgid "Add parallax effect to background image?"
+msgstr "Parallax Effekt hinzufügen?"
+
+#: inc/functions.php:937
+msgid "Make background image full screen?"
+msgstr "Hintergrundbild als Vollbild anzeigen?"
+
+#: inc/functions.php:941
+msgid "Center your content vertically?"
+msgstr "Zentrieren Ihre Inhalte vertikal?"
+
+#: inc/functions.php:945
+msgid "Container type"
+msgstr "Container-Typ"
+
+#: inc/functions.php:955
+msgid "Text alignment"
+msgstr "Textausrichtung"
+
+#: inc/functions.php:964
+msgid "Top/Bottom padding"
+msgstr "Innenabstand oben & unten"
+
+#: inc/functions.php:969
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: inc/functions.php:974
+msgid "Text color"
+msgstr "Textfarbe"
+
+#: inc/functions.php:979
+msgid "Link color"
+msgstr "Linkfarbe"
+
+#: inc/functions.php:984
+msgid "Link color hover"
+msgstr "Linkfarbe bei Mouse over"
+
+#: inc/functions.php:992
+msgid "Add to blog excerpt (if no Featured Image is set)"
+msgstr "Zum Blog Auszug hinzufügen (wenn kein Beitragsbild gesetzt ist)"
+
+#: inc/functions.php:1297
+msgid "Page Header Position"
+msgstr "Seitenkopf-Position"
+
+#: inc/functions.php:1300 inc/functions.php:1330
+msgid "Above Content Area"
+msgstr "Über dem Inhaltsbereich"
+
+#: inc/functions.php:1301 inc/functions.php:1331
+msgid "Inside Content Area"
+msgstr "Im Inhaltsbereich"
+
+#: inc/functions.php:1327
+msgid "Single Post Header Position"
+msgstr "Beitragsbild Position"
+
+#: inc/functions.php:1332
+msgid "Below Post Title"
+msgstr "Unter dem Beitragstitel"
+
+#: inc/ie.php:14
+msgid "Delete Page Header Customizer Settings"
+msgstr "Seitenkopf Customizer Einstellungen löschen"
+
+#: inc/ie.php:50
+msgid "Export Page Header Customizer Settings"
+msgstr "Exportiere Seitenkopf-Einstellungen"
+
+#: inc/verification.php:39
+msgid ""
+"Want updates served directly to your Dashboard? Activate the email you "
+"purchased your add-ons with here."
+msgstr ""
+"Möchtest Du die Updates direkt auf dem Dashboard? Aktiviere Deine E-Mail mit "
+"der Du bezahlt hast."
+
+#: inc/verification.php:47 inc/verification.php:61
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/verification.php:54
+msgid "Deactivate Email"
+msgstr "E-Mail deaktivieren"
+
+#: inc/verification.php:66
+msgid "Activate Email"
+msgstr "E-Mail aktivieren"
+
+#: inc/verification.php:79
+msgid "Save Email"
+msgstr "E-Mail speichern"
+
+#: inc/verification.php:90
+msgid "Enable All Updates"
+msgstr "Alle Updates aktivieren"
+
+#: inc/verification.php:342
+msgid "Email activation failed. This email does not exist in our records."
+msgstr ""
+"Email-Aktivierung ist fehlgeschlagen. Diese e-Mail ist nicht in unseren "
+"Aufzeichnungen vorhanden."
+
+#: inc/verification.php:346
+msgid "Email activated."
+msgstr "E-Mail aktiviert."
+
+#: inc/verification.php:350
+msgid "Email deactivated."
+msgstr "E-Mail deaktiviert."
+
+#: inc/verification.php:354
+msgid "License failed."
+msgstr "Lizenz ungültig oder nicht vorhanden."
+
+#: inc/verification.php:358
+msgid "License activated."
+msgstr "Lizenz aktiviert."
+
+#: inc/verification.php:362
+msgid "Licenses activated."
+msgstr "Lizenzen aktiviert."
+
+#: inc/verification.php:366
+msgid "Deactivation failed."
+msgstr "Deaktivierung ist fehlgeschlagen."
+
+#: inc/verification.php:370
+msgid "License deactivated."
+msgstr "Lizenz deaktiviert."
+
+#: inc/verification.php:405
+msgid "Disable Updates"
+msgstr "Updates deaktivieren"
+
+#: inc/verification.php:415
+msgid "Enable Updates"
+msgstr "Updates aktivieren"
+
+#~ msgid ""
+#~ "Note: You've chosen content to show as your page header. Remove the "
+#~ "content and save to use the image below."
+#~ msgstr ""
+#~ "Hinweis: Sie haben Inhalte als Ihre Kopfzeile anzeigen ausgewählt. "
+#~ "Entfernen Sie den Inhalt und speichern Sie, um das Bild unten zu "
+#~ "verwenden."
+
+#~ msgid "Background type"
+#~ msgstr "Hintergrundtyp"
+
+#~ msgid "Add parallax effect?"
+#~ msgstr "Parallax Effekt hinzufügen?"
+
+#~ msgid "verified"
+#~ msgstr "bestätigt"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "unverified"
+#~ msgstr "Ungeprüft"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Deactivate License"
+#~ msgstr "Lizenz deaktivieren"
+
+#~ msgid "active"
+#~ msgstr "aktiv"
+
+#~ msgid "Activate License"
+#~ msgstr "Lizenz aktivieren"
+
+#~ msgid "inactive"
+#~ msgstr "inaktiv"
+
+#~ msgid "Generate Page Header License Key"
+#~ msgstr "Seitenkopf-Lizenz-Schlüssel generieren"
+
+#~ msgid "No image URL has been entered."
+#~ msgstr "Es wurde keine Bild-URL eingegeben."
+
+#~ msgid "At least one of width or height must be a number."
+#~ msgstr "Die Breite oder Höhe muss eine Zahl sein."
+
+#~ msgid "Failed to get $file_path information using \"@getimagesize\"."
+#~ msgstr ""
+#~ "Fehler beim Abrufen der $file_path Informationen mithilfe von "
+#~ "\"@getimagesize\"."
+
+#~ msgid "Resize path invalid (GIF)"
+#~ msgstr "Pfad zur Größenänderung ist falsch (GIF)"
+
+#~ msgid "Resize path invalid (PNG)."
+#~ msgstr "Pfad zur Größenänderung ist falsch (PNG)"
+
+#~ msgid "Resize path invalid (JPG)."
+#~ msgstr "Pfad zur Größenänderung ist falsch (JPG)"
+
+#~ msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+#~ msgstr ""
+#~ "Fehler beim Abrufen der $dest_file_name (geänderte Bildgröße) Info über "
+#~ "@getimagesize"
+
+#~ msgid ""
+#~ "Activate your addons by entering the email you purchased them with below. "
+#~ "Save and verify, then your purchased addons will appear below for "
+#~ "activation."
+#~ msgstr ""
+#~ "Aktivieren Sie Ihre Addons durch Eingabe der e-Mail, die Sie beim Kauf "
+#~ "genutzt haben. Speichern Sie zur Überprüfung und anschließend stehen die "
+#~ "gekauften Addons zur Verfügung."
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Action"
+#~ msgstr "Aktion"
+
+#~ msgid "Refresh"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Verify Email"
+#~ msgstr "E-Mail bestätigen"
+
+#~ msgid "Activate All"
+#~ msgstr "Alle aktivieren"
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid "Once Every 3 Days"
+#~ msgstr "Einmal alle 3 Tage"

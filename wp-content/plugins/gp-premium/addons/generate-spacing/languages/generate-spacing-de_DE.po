@@ -1,0 +1,315 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Spacing\n"
+"POT-Creation-Date: 2015-04-04 15:43-0800\n"
+"PO-Revision-Date: 2015-04-14 19:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr "Sie haben keine Berechtigung Plugin-Updates zu installieren"
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr "Fehler"
+
+#: inc/functions.php:58
+msgid "Element Spacing"
+msgstr "Element Abstand"
+
+#: inc/functions.php:61
+msgid "Change the spacing for various elements using pixels."
+msgstr "Ändern des Abstands für verschiedene Elemente mit Pixeln."
+
+#: inc/functions.php:83
+msgid "Header"
+msgstr "Kopfbereich"
+
+#: inc/functions.php:85 inc/functions.php:116 inc/functions.php:147
+#: inc/functions.php:178 inc/functions.php:209
+msgid "Top"
+msgstr "Oben"
+
+#: inc/functions.php:86 inc/functions.php:117 inc/functions.php:148
+#: inc/functions.php:179 inc/functions.php:210
+msgid "Right"
+msgstr "Rechts"
+
+#: inc/functions.php:87 inc/functions.php:118 inc/functions.php:149
+#: inc/functions.php:180 inc/functions.php:211
+msgid "Bottom"
+msgstr "Unten"
+
+#: inc/functions.php:88 inc/functions.php:119 inc/functions.php:150
+#: inc/functions.php:181 inc/functions.php:212
+msgid "Left"
+msgstr "Links"
+
+#: inc/functions.php:114
+msgid "Content"
+msgstr "Inhalt"
+
+#: inc/functions.php:145
+msgid "Sidebar Widgets"
+msgstr "Sidebar Widgets"
+
+#: inc/functions.php:176
+msgid "Footer Widget Area"
+msgstr "Fußbereich-Widget"
+
+#: inc/functions.php:207
+msgid "Footer"
+msgstr "Fußbereich"
+
+#: inc/functions.php:384
+msgid "Separating Space"
+msgstr "Trennung von Raum"
+
+#: inc/functions.php:385
+msgid ""
+"The spacing between elements when \"Content Layout\" is set to \"Separate "
+"Containers\"."
+msgstr ""
+"Der Abstand zwischen den Elementen, wenn \"Content-Layout\" auf \"Separate "
+"Containers\" festgelegt ist."
+
+#: inc/functions.php:432
+msgid "Primary Menu Items"
+msgstr "Haupt-Navigation"
+
+#: inc/functions.php:433
+msgid "These options control the size of your menu items."
+msgstr "Diese Optionen steuern die Größe Ihrer Menü-Elemente."
+
+#: inc/functions.php:437
+msgid "Left/Right Spacing"
+msgstr "Linker/Rechter Abstand"
+
+#: inc/functions.php:438
+msgid "Height"
+msgstr "Höhe"
+
+#: inc/functions.php:504
+msgid "Sub-menu Item Height"
+msgstr "Untermenü Elementhöhe"
+
+#: inc/functions.php:505
+msgid "The top and bottom spacing of sub-menu items."
+msgstr "Der oberen und unteren Abstand der untergeordneten Menüelemente."
+
+#: inc/functions.php:551
+msgid "Sidebar Widths"
+msgstr "Breite der Sidebar"
+
+#: inc/functions.php:579
+msgid "Left Sidebar"
+msgstr "Linke Seitenleiste"
+
+#: inc/functions.php:582 inc/functions.php:618
+msgid "15%"
+msgstr "15%"
+
+#: inc/functions.php:583 inc/functions.php:619
+msgid "20%"
+msgstr "20%"
+
+#: inc/functions.php:584 inc/functions.php:620
+msgid "25%"
+msgstr "25%"
+
+#: inc/functions.php:585 inc/functions.php:621
+msgid "30%"
+msgstr "30%"
+
+#: inc/functions.php:586 inc/functions.php:622
+msgid "35%"
+msgstr "35%"
+
+#: inc/functions.php:587 inc/functions.php:623
+msgid "40%"
+msgstr "40%"
+
+#: inc/functions.php:588 inc/functions.php:624
+msgid "45%"
+msgstr "45%"
+
+#: inc/functions.php:589 inc/functions.php:625
+msgid "50%"
+msgstr "50%"
+
+#: inc/functions.php:615
+msgid "Right Sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: inc/ie.php:15
+msgid "Delete Spacing Customizer Settings"
+msgstr "Customizer Abstandseinstellungen löschen"
+
+#: inc/ie.php:53
+msgid "Export Spacing Customizer Settings"
+msgstr "Abstand-Customizer-Exporteinstellungen"
+
+#: inc/verification.php:39
+msgid ""
+"Want updates served directly to your Dashboard? Activate the email you "
+"purchased your add-ons with here."
+msgstr ""
+"Möchtest Du die Updates direkt auf dem Dashboard? Aktiviere Deine E-Mail mit "
+"der Du bezahlt hast."
+
+#: inc/verification.php:47 inc/verification.php:61
+msgid "Email"
+msgstr "E-Mail"
+
+#: inc/verification.php:54
+msgid "Deactivate Email"
+msgstr "E-Mail deaktivieren"
+
+#: inc/verification.php:66
+msgid "Activate Email"
+msgstr "E-Mail aktivieren"
+
+#: inc/verification.php:79
+msgid "Save Email"
+msgstr "E-Mail speichern"
+
+#: inc/verification.php:90
+msgid "Enable All Updates"
+msgstr "Alle Updates aktivieren"
+
+#: inc/verification.php:342
+msgid "Email activation failed. This email does not exist in our records."
+msgstr ""
+"Email-Aktivierung ist fehlgeschlagen. Diese e-Mail ist nicht in unseren "
+"Aufzeichnungen vorhanden."
+
+#: inc/verification.php:346
+msgid "Email activated."
+msgstr "E-Mail aktiviert."
+
+#: inc/verification.php:350
+msgid "Email deactivated."
+msgstr "E-Mail deaktiviert."
+
+#: inc/verification.php:354
+msgid "License failed."
+msgstr "Lizenz ungültig oder nicht vorhanden."
+
+#: inc/verification.php:358
+msgid "License activated."
+msgstr "Lizenz aktiviert."
+
+#: inc/verification.php:362
+msgid "Licenses activated."
+msgstr "Lizenzen aktiviert."
+
+#: inc/verification.php:366
+msgid "Deactivation failed."
+msgstr "Deaktivierung ist fehlgeschlagen."
+
+#: inc/verification.php:370
+msgid "License deactivated."
+msgstr "Lizenz deaktiviert."
+
+#: inc/verification.php:405
+msgid "Disable Updates"
+msgstr "Updates deaktivieren"
+
+#: inc/verification.php:415
+msgid "Enable Updates"
+msgstr "Updates aktivieren"
+
+#~ msgid "verified"
+#~ msgstr "bestätigt"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deaktivieren"
+
+#~ msgid "unverified"
+#~ msgstr "Ungeprüft"
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Spacing Installed"
+#~ msgstr "Element Abstand installiert"
+
+#~ msgid "Please enter your license key in order to use this plugin."
+#~ msgstr ""
+#~ "Bitte geben Sie Ihren Lizenzschlüssel ein, um dieses Plugin zu verwenden."
+
+#~ msgid "Deactivate License"
+#~ msgstr "Lizenz deaktivieren"
+
+#~ msgid "active"
+#~ msgstr "aktiv"
+
+#~ msgid "Activate License"
+#~ msgstr "Lizenz aktivieren"
+
+#~ msgid "inactive"
+#~ msgstr "inaktiv"
+
+#~ msgid "Generate Spacing License Key"
+#~ msgstr "Abstand-Lizenz-Schlüssel generieren"
+
+#~ msgid ""
+#~ "Activate your addons by entering the email you purchased them with below. "
+#~ "Save and verify, then your purchased addons will appear below for "
+#~ "activation."
+#~ msgstr ""
+#~ "Aktivieren Sie Ihre Addons durch Eingabe der e-Mail, die Sie beim Kauf "
+#~ "genutzt haben. Speichern Sie zur Überprüfung und anschließend stehen die "
+#~ "gekauften Addons zur Verfügung."
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Action"
+#~ msgstr "Aktion"
+
+#~ msgid "Refresh"
+#~ msgstr "Aktualisieren"
+
+#~ msgid "Verify Email"
+#~ msgstr "E-Mail bestätigen"
+
+#~ msgid "Activate All"
+#~ msgstr "Alle aktivieren"
+
+#~ msgid "Product"
+#~ msgstr "Produkt"
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid "Once Every 3 Days"
+#~ msgstr "Einmal alle 3 Tage"

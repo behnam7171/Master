@@ -1,0 +1,622 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Page Header\n"
+"POT-Creation-Date: 2015-10-12 16:02+0200\n"
+"PO-Revision-Date: 2015-10-17 22:55+0200\n"
+"Last-Translator: Foxtrot <foxtrot@foxtrot.me>\n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/admin-page-framework\n"
+
+#: functions/admin-options.php:73 functions/admin-options.php:141
+msgid "Blog Page Header"
+msgstr "Hlavička stránky blogu"
+
+#: functions/admin-options.php:75
+msgid "Add a page header to your blog."
+msgstr "Přidejte hlavičku stránky k vašemu blogu."
+
+#: functions/admin-options.php:76
+msgid ""
+"This will only show up on the page you have set as your \"Posts Page\". To "
+"add a page header to specific pages, use the metabox included while adding "
+"your content."
+msgstr ""
+"Zobrazí se pouze na stránce, kterou jste nastavili jako vaši \"Stránku "
+"příspěvků\". Pro přidání hlavičky stránky konkrétním stránkám, použijte "
+"infobox při vkládání vašeho obsahu."
+
+#: functions/admin-options.php:80
+msgid "Publish"
+msgstr "Publikovat"
+
+#: functions/admin-options.php:82
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: functions/admin-options.php:144
+msgid ""
+"Use these options to add a page header to your Blog. Add page headers to "
+"your pages by using the metabox while editing them."
+msgstr ""
+"Použijte tyto nastavení k přidání hlavičky stránky k vašemu blogu. Přidejte "
+"hlavičky stránek k vašim stránkám použitím infoboxu, zatímco je upravujete."
+
+#: functions/admin-options.php:149
+msgid "Image Options"
+msgstr "Nastavení obrázku"
+
+#: functions/admin-options.php:150
+msgid "Upload an image to use in your page header"
+msgstr "Nahrajte obrázek, který bude použit ve vaší hlavičce stránky"
+
+#: functions/admin-options.php:155 functions/functions.php:786
+msgid "Image"
+msgstr "Obrázek"
+
+#: functions/admin-options.php:156
+msgid "Upload an image to be used as your page header."
+msgstr "Nahrajte obrázek, který bude použit jako vaše hlavička stránky."
+
+#: functions/admin-options.php:161 functions/functions.php:806
+msgid "Page Header Link"
+msgstr "Odkaz hlavičky stránky"
+
+#: functions/admin-options.php:162
+msgid "Make your page header image clickable by adding a URL. (optional)"
+msgstr ""
+"Udělejte váš obrázek hlavičky stránky klikatelný přidáním URL. (volitelné)"
+
+#: functions/admin-options.php:168 functions/functions.php:811
+msgid "Hard Crop"
+msgstr "Oříznutí"
+
+#: functions/admin-options.php:169
+msgid "Turn hard cropping or of off."
+msgstr "Zapněte nebo vypněte oříznutí."
+
+#: functions/admin-options.php:173 functions/admin-options.php:226
+#: functions/admin-options.php:237 functions/admin-options.php:248
+#: functions/admin-options.php:259 functions/admin-options.php:270
+#: functions/admin-options.php:281 functions/functions.php:814
+msgid "Enable"
+msgstr "Povolit"
+
+#: functions/admin-options.php:174 functions/admin-options.php:227
+#: functions/admin-options.php:238 functions/admin-options.php:249
+#: functions/admin-options.php:260 functions/admin-options.php:271
+#: functions/admin-options.php:282 functions/functions.php:813
+msgid "Disable"
+msgstr "Zakázat"
+
+#: functions/admin-options.php:195 functions/functions.php:839
+msgid "Image Width"
+msgstr "Šířka obrázku"
+
+#: functions/admin-options.php:196
+msgid "Choose your image width in pixels. (integer only, default is 1200)"
+msgstr ""
+"Zvolte šířku vašeho obrázku v pixelech. (pouze celá čísla, výchozí je 1200)"
+
+#: functions/admin-options.php:202 functions/functions.php:844
+msgid "Image Height"
+msgstr "Výška obrázku"
+
+#: functions/admin-options.php:203
+msgid ""
+"Choose your image height in pixels. Use \"0\" or leave blank to calculate "
+"height based on width. (integer only, default is 0) "
+msgstr ""
+"Zvolte výšku vašeho obrázku v pixelech. Použijte \"0\" nebo nechte prázdné "
+"pro výpočet výšky v závislosti na šířce. (pouze celá čísla, výchozí je 0)"
+
+#: functions/admin-options.php:209
+msgid "Content Options"
+msgstr "Nastavení obsahu"
+
+#: functions/admin-options.php:210
+msgid "Add content to your page header"
+msgstr "Přidejte obsah k vaší hlavičce stránky"
+
+#: functions/admin-options.php:215 functions/functions.php:787
+#: functions/functions.php:853
+msgid "Content"
+msgstr "Obsah"
+
+#: functions/admin-options.php:216
+msgid "Add your content to the page header. HTML and shortcodes allowed."
+msgstr ""
+"Přidejte váš obsah k hlavičce stránky. HTML a zkratky (shortcodes) jsou "
+"povoleny."
+
+#: functions/admin-options.php:221
+msgid "Add Paragraphs"
+msgstr "Přidat odstavce"
+
+#: functions/admin-options.php:222
+msgid "Wrap your text in paragraph tags automatically."
+msgstr "Zabalte váš text automaticky do tagů odstavců."
+
+#: functions/admin-options.php:232
+msgid "Add Padding"
+msgstr "Přidat odsazení"
+
+#: functions/admin-options.php:233
+msgid "Add padding around your content."
+msgstr "Přidejte odsazení okolo vašeho obsahu."
+
+#: functions/admin-options.php:243
+msgid "Image Background"
+msgstr "Obrázek na pozadí"
+
+#: functions/admin-options.php:244
+msgid ""
+"Use the image uploaded above as a background image for your content. "
+"(requires image uploaded above)"
+msgstr ""
+"Použijte obrázek nahraný výše jako obrázek na pozadí pro váš obsah. "
+"(vyžaduje obrázek nahraný výše)"
+
+#: functions/admin-options.php:254
+msgid "Parallax Background"
+msgstr "Paralaxní pozadí"
+
+#: functions/admin-options.php:255
+msgid ""
+"Add a cool parallax effect to your background image. (requires the image "
+"background option to be checked)"
+msgstr ""
+"Přidejte parádní paralaxový efekt k vašemu obrázku na pozadí. (vyžaduje "
+"zapnutí nastavení pozadí obrázku)"
+
+#: functions/admin-options.php:265
+msgid "Full Screen"
+msgstr "Celá obrazovka"
+
+#: functions/admin-options.php:266
+msgid "Make your page header content area full screen."
+msgstr "Udělejte obsahovou oblast vaší hlavičky stránky přes celou obrazovku."
+
+#: functions/admin-options.php:276
+msgid "Vertical Center"
+msgstr "Vertikální vystředění"
+
+#: functions/admin-options.php:277
+msgid "Center your page header content vertically."
+msgstr "Vystředí obsah vaší hlavičku stránky vertikálně."
+
+#: functions/admin-options.php:287
+msgid "Container Type"
+msgstr "Typ prostoru"
+
+#: functions/admin-options.php:288
+msgid "Choose whether the page header is contained or fluid."
+msgstr "Zvolte, jestli bude hlavička stránky omezená nebo proměnlivá."
+
+#: functions/admin-options.php:292 functions/functions.php:885
+msgid "Contained"
+msgstr "Omezený"
+
+#: functions/admin-options.php:293 functions/functions.php:886
+msgid "Fluid"
+msgstr "Proměnlivý"
+
+#: functions/admin-options.php:298
+msgid "Text Alignment"
+msgstr "Zarovnání textu"
+
+#: functions/admin-options.php:299
+msgid "Choose the horizontal alignment of your content."
+msgstr "Zvolte horizontální zarovnání vašeho obsahu."
+
+#: functions/admin-options.php:303 functions/functions.php:895
+msgid "Left"
+msgstr "Doleva"
+
+#: functions/admin-options.php:304 functions/functions.php:896
+msgid "Center"
+msgstr "Doprostřed"
+
+#: functions/admin-options.php:305 functions/functions.php:897
+msgid "Right"
+msgstr "Doprava"
+
+#: functions/admin-options.php:310
+msgid "Top/Bottom Padding"
+msgstr "Vrchní/Spodní odsazení"
+
+#: functions/admin-options.php:311
+msgid ""
+"Choose your content padding in pixels. This will add space above and below "
+"your content. (integer only) "
+msgstr ""
+"Zvolte odsazení vašeho obsahu v pixelech. Toto přidá mezeru nad a pod váš "
+"obsah. (pouze celá čísla)"
+
+#: functions/admin-options.php:317
+msgid "Background Color"
+msgstr "Barva pozadí"
+
+#: functions/admin-options.php:323
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: functions/admin-options.php:329
+msgid "Link Color"
+msgstr "Barva odkazu"
+
+#: functions/admin-options.php:335
+msgid "Link Hover Color"
+msgstr "Barva odkazu při přejetí myší"
+
+#: functions/cmb2/CMB2.php:122 functions/cmb2/includes/CMB2.php:112
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr "Je vyžadována konfigurace infoboxu, abyste měli ID parametr"
+
+#: functions/cmb2/CMB2.php:311 functions/cmb2/includes/CMB2.php:302
+msgid "Click to toggle"
+msgstr "Kliknutím přepnout"
+
+#: functions/cmb2/includes/CMB2_Ajax.php:37
+msgid "Please Try Again"
+msgstr "Prosím, zkuste to znovu"
+
+#: functions/cmb2/includes/CMB2_Ajax.php:133
+msgid "Remove Embed"
+msgstr "Odstranit vložený prvek"
+
+#: functions/cmb2/includes/CMB2_Ajax.php:137
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Nebyly nalezeny žádné oEmbed výsledky pro %s. Více informací na"
+
+#: functions/cmb2/includes/CMB2_Field.php:885
+msgid "Add Group"
+msgstr "Přidat skupinu"
+
+#: functions/cmb2/includes/CMB2_Field.php:886
+msgid "Remove Group"
+msgstr "Odstranit skupinu"
+
+#: functions/cmb2/includes/CMB2_Field.php:908
+#: functions/cmb2/includes/CMB2_Field.php:912
+msgid "None"
+msgstr "Žádné"
+
+#: functions/cmb2/includes/CMB2_Types.php:294
+msgid "Add Row"
+msgstr "Přidat řadu"
+
+#: functions/cmb2/includes/CMB2_Types.php:353
+#: functions/cmb2/includes/CMB2_Types.php:986
+#: functions/cmb2/includes/CMB2_hookup.php:183
+msgid "Remove"
+msgstr "Odstranit"
+
+#: functions/cmb2/includes/CMB2_Types.php:722
+#: functions/cmb2/includes/CMB2_Types.php:770
+msgid "No terms"
+msgstr "Bez termínů"
+
+#: functions/cmb2/includes/CMB2_Types.php:835
+msgid "Add or Upload Files"
+msgstr "Přidat nebo nahrát soubory"
+
+#: functions/cmb2/includes/CMB2_Types.php:893
+msgid "Add or Upload File"
+msgstr "Přidat nebo nahrát soubor"
+
+#: functions/cmb2/includes/CMB2_Types.php:967
+#: functions/cmb2/includes/CMB2_hookup.php:182
+msgid "Remove Image"
+msgstr "Odstranit obrázek"
+
+#: functions/cmb2/includes/CMB2_Types.php:981
+#: functions/cmb2/includes/CMB2_hookup.php:184
+msgid "File:"
+msgstr "Soubor:"
+
+#: functions/cmb2/includes/CMB2_Types.php:984
+#: functions/cmb2/includes/CMB2_hookup.php:185
+msgid "Download"
+msgstr "Stáhnout"
+
+#: functions/cmb2/includes/CMB2_hookup.php:128
+#: functions/cmb2/includes/CMB2_hookup.php:165
+msgid "Clear"
+msgstr "Vymazat"
+
+#: functions/cmb2/includes/CMB2_hookup.php:129
+msgid "Default"
+msgstr "Výchozí"
+
+#: functions/cmb2/includes/CMB2_hookup.php:130
+msgid "Select Color"
+msgstr "Vybrat barvu"
+
+#: functions/cmb2/includes/CMB2_hookup.php:131
+msgid "Current Color"
+msgstr "Aktuální barva"
+
+#: functions/cmb2/includes/CMB2_hookup.php:155
+msgid "mm/dd/yy"
+msgstr "mm/dd/yy"
+
+#: functions/cmb2/includes/CMB2_hookup.php:156
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr "Neděle, Pondělí, Úterý, Středa, Čtvrtek, Pátek, Sobota"
+
+#: functions/cmb2/includes/CMB2_hookup.php:157
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr "Ne, Po, Út, St, Čt, Pá, So"
+
+#: functions/cmb2/includes/CMB2_hookup.php:158
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr "Ned, Pon, Úte, Stř, Čtv, Pát, Sob"
+
+#: functions/cmb2/includes/CMB2_hookup.php:159
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+"Leden, Únor, Březen, Duben, Květen, Červen, Červenec, Srpen, Září, Říjen, "
+"Listopad, Prosinec"
+
+#: functions/cmb2/includes/CMB2_hookup.php:160
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr "Led, Úno, Bře, Dub, Kvě, Čer, Čvc, Srp, Zář, Říj, Lis, Pro"
+
+#: functions/cmb2/includes/CMB2_hookup.php:161
+msgid "Next"
+msgstr "Další"
+
+#: functions/cmb2/includes/CMB2_hookup.php:162
+msgid "Prev"
+msgstr "Předchozí"
+
+#: functions/cmb2/includes/CMB2_hookup.php:163
+msgid "Today"
+msgstr "Dnes"
+
+#: functions/cmb2/includes/CMB2_hookup.php:164
+#: functions/cmb2/includes/CMB2_hookup.php:174
+msgid "Done"
+msgstr "Hotovo"
+
+#: functions/cmb2/includes/CMB2_hookup.php:168
+msgid "Choose Time"
+msgstr "Zvolit čas"
+
+#: functions/cmb2/includes/CMB2_hookup.php:169
+msgid "Time"
+msgstr "Čas"
+
+#: functions/cmb2/includes/CMB2_hookup.php:170
+msgid "Hour"
+msgstr "Hodina"
+
+#: functions/cmb2/includes/CMB2_hookup.php:171
+msgid "Minute"
+msgstr "Minuta"
+
+#: functions/cmb2/includes/CMB2_hookup.php:172
+msgid "Second"
+msgstr "Sekunda"
+
+#: functions/cmb2/includes/CMB2_hookup.php:173
+msgid "Now"
+msgstr "Teď"
+
+#: functions/cmb2/includes/CMB2_hookup.php:175
+msgid "hh:mm TT"
+msgstr "hh:mm TT"
+
+#: functions/cmb2/includes/CMB2_hookup.php:181
+msgid "Use this file"
+msgstr "Použít tento soubor"
+
+#: functions/cmb2/includes/CMB2_hookup.php:186
+msgid "Select / Deselect All"
+msgstr "Vybrat / Zrušit výběr všeho"
+
+#: functions/cmb2/includes/helper-functions.php:254
+msgid "Save"
+msgstr "Uložit"
+
+#: functions/functions.php:626 functions/functions.php:1217
+msgid "Page Header"
+msgstr "Hlavička stránky"
+
+#: functions/functions.php:798 functions/functions.php:800
+msgid "Page Header Image"
+msgstr "Obrázek hlavičky stránky"
+
+#: functions/functions.php:800
+msgid "Insert Image"
+msgstr "Vložit obrázek"
+
+#: functions/functions.php:801
+msgid "Add Image"
+msgstr "Přidat obrázek"
+
+#: functions/functions.php:846
+msgid "Use \"0\" or leave blank to calculate height based on width."
+msgstr ""
+"Použijte \"0\" nebo nechte prázdné pro výpočet výšky v závislosti na šířce. "
+
+#: functions/functions.php:855
+msgid "HTML and shortcodes allowed."
+msgstr "HTML a zkratky (shortcodes) jsou povoleny."
+
+#: functions/functions.php:858
+msgid "Automatically add paragraphs"
+msgstr "Automaticky vytvářet odstavce"
+
+#: functions/functions.php:861
+msgid "Add padding"
+msgstr "Přidat odsazení"
+
+#: functions/functions.php:865
+msgid "Use image (from image tab) as a background image?"
+msgstr "Použít obrázek (z karty s obrázkem) jako obrázek na pozadí?"
+
+#: functions/functions.php:871
+msgid "Add parallax effect to background image?"
+msgstr "Přidat paralaxový efekt k obrázku na pozadí?"
+
+#: functions/functions.php:875
+msgid "Make background image full screen?"
+msgstr "Obrázek na pozadí na celou obrazovku?"
+
+#: functions/functions.php:879
+msgid "Center your content vertically?"
+msgstr "Vystředit váš obsah vertikálně?"
+
+#: functions/functions.php:883
+msgid "Container type"
+msgstr "Typ prostoru"
+
+#: functions/functions.php:893
+msgid "Text alignment"
+msgstr "Zarovnání textu"
+
+#: functions/functions.php:902
+msgid "Top/Bottom padding"
+msgstr "Vrchní/Spodní odsazení"
+
+#: functions/functions.php:907
+msgid "Background color"
+msgstr "Barva pozadí"
+
+#: functions/functions.php:912
+msgid "Text color"
+msgstr "Barva textu"
+
+#: functions/functions.php:917
+msgid "Link color"
+msgstr "Barva odkazu"
+
+#: functions/functions.php:922
+msgid "Link color hover"
+msgstr "Barva odkazu při přejetí kurzorem myši"
+
+#: functions/functions.php:930
+msgid "Add to blog excerpt (if no Featured Image is set)"
+msgstr "Přidat do blogového úryvku (pokud není vybrán Náhledový obrázek)"
+
+#: functions/functions.php:1241
+msgid "Page Header Position"
+msgstr "Umístění hlavičky stránky"
+
+#: functions/functions.php:1244 functions/functions.php:1274
+msgid "Above Content Area"
+msgstr "Nad oblastí obsahu"
+
+#: functions/functions.php:1245 functions/functions.php:1275
+msgid "Inside Content Area"
+msgstr "Uvnitř oblasti obsahu"
+
+#: functions/functions.php:1271
+msgid "Single Post Header Position"
+msgstr "Umístění hlavičky příspěvku"
+
+#: functions/functions.php:1276
+msgid "Below Post Title"
+msgstr "Pod názvem příspěvku"
+
+#: functions/ie.php:14
+msgid "Warning: This will delete your settings."
+msgstr "Varování: Toto smaže vaše nastavení."
+
+#: functions/ie.php:16
+msgid "Delete Page Header Customizer Settings"
+msgstr "Smazat nastavení Přizpůsobení pro Hlavičku stránky"
+
+#: functions/ie.php:53
+msgid "Export Page Header Customizer Settings"
+msgstr "Exportovat nastavení Přizpůsobení pro Hlavičku stránky"
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a>."
+
+#~ msgid ""
+#~ "There is a new version of %1$s available. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+#~ "\">update now</a>."
+#~ msgstr ""
+#~ "Je dostupná nová verze %1$s. <a target=\"_blank\" class=\"thickbox\" href="
+#~ "\"%2$s\">Zobrazit podrobnosti o verzi %3$s</a> nebo <a href=\"%4$s"
+#~ "\">aktualizovat nyní</a>."
+
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Nemáte oprávnění k instalaci aktualizací pluginů"
+
+#~ msgid "Error"
+#~ msgstr "Chyba"
+
+#~ msgid ""
+#~ "Want updates served directly to your Dashboard? Activate the email you "
+#~ "purchased your add-ons with here."
+#~ msgstr ""
+#~ "Chcete aktualizace dodávat přímo do vaší Nástěnky? Aktivujte zde email, "
+#~ "kterým jste zakoupili vaše doplňky."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Deactivate Email"
+#~ msgstr "Deaktivovat email"
+
+#~ msgid "Activate Email"
+#~ msgstr "Aktivovat email"
+
+#~ msgid "Save Email"
+#~ msgstr "Uložit email"
+
+#~ msgid "Enable All Updates"
+#~ msgstr "Povolit všechny aktualizace"
+
+#~ msgid "Disable Updates"
+#~ msgstr "Zakázat aktualizace"
+
+#~ msgid "Enable Updates"
+#~ msgstr "Povolit aktualizace"
+
+#~ msgid "Email activation failed. This email does not exist in our records."
+#~ msgstr "Aktivace emailu selhala. Tento email v našich záznamech neexistuje."
+
+#~ msgid "Email activated."
+#~ msgstr "Email aktivován."
+
+#~ msgid "Email deactivated."
+#~ msgstr "Email deaktivován."
+
+#~ msgid "License failed."
+#~ msgstr "Licence selhala."
+
+#~ msgid "License activated."
+#~ msgstr "Licence aktivována."
+
+#~ msgid "Licenses activated."
+#~ msgstr "Licence aktivovány."
+
+#~ msgid "Deactivation failed."
+#~ msgstr "Deaktivace selhala."
+
+#~ msgid "License deactivated."
+#~ msgstr "Licence deaktivována."

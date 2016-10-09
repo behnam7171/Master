@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Blog\n"
+"POT-Creation-Date: 2015-05-20 10:49-0800\n"
+"PO-Revision-Date: 2015-05-20 10:49-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr ""
+
+#: inc/generate-blog.php:10
+msgid "Read more..."
+msgstr ""
+
+#: inc/generate-blog.php:14
+msgid "+ More"
+msgstr ""
+
+#: inc/generate-blog.php:138
+msgid "Blog"
+msgstr ""
+
+#: inc/generate-blog.php:153
+msgid "Blog Content"
+msgstr ""
+
+#: inc/generate-blog.php:171
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/generate-blog.php:189
+msgid "Read more label"
+msgstr ""
+
+#: inc/generate-blog.php:202 inc/generate-blog.php:226
+msgid "Masonry"
+msgstr ""
+
+#: inc/generate-blog.php:229
+msgid "Enable"
+msgstr ""
+
+#: inc/generate-blog.php:230
+msgid "Disable"
+msgstr ""
+
+#: inc/generate-blog.php:256
+msgid "Masonry Block Width"
+msgstr ""
+
+#: inc/generate-blog.php:259 inc/generate-blog.php:290
+#: inc/generate-blog.php:841
+msgid "Small"
+msgstr ""
+
+#: inc/generate-blog.php:260 inc/generate-blog.php:291
+#: inc/generate-blog.php:842
+msgid "Medium"
+msgstr ""
+
+#: inc/generate-blog.php:261 inc/generate-blog.php:292
+#: inc/generate-blog.php:843
+msgid "Large"
+msgstr ""
+
+#: inc/generate-blog.php:287
+msgid "Masonry Most Recent Width"
+msgstr ""
+
+#: inc/generate-blog.php:311
+msgid "Masonry Load More Text"
+msgstr ""
+
+#: inc/generate-blog.php:329
+msgid "Masonry Loading Text"
+msgstr ""
+
+#: inc/generate-blog.php:342 inc/generate-blog.php:366
+msgid "Post Image"
+msgstr ""
+
+#: inc/generate-blog.php:369 inc/generate-blog.php:504
+#: inc/generate-blog.php:534 inc/generate-blog.php:564
+#: inc/generate-blog.php:594 inc/generate-blog.php:624
+msgid "Show"
+msgstr ""
+
+#: inc/generate-blog.php:370 inc/generate-blog.php:505
+#: inc/generate-blog.php:535 inc/generate-blog.php:565
+#: inc/generate-blog.php:595 inc/generate-blog.php:625
+msgid "Hide"
+msgstr ""
+
+#: inc/generate-blog.php:396
+msgid "Post Image Position"
+msgstr ""
+
+#: inc/generate-blog.php:399
+msgid "Below Header"
+msgstr ""
+
+#: inc/generate-blog.php:400
+msgid "Above Header"
+msgstr ""
+
+#: inc/generate-blog.php:426
+msgid "Post Image Alignment"
+msgstr ""
+
+#: inc/generate-blog.php:429
+msgid "Center"
+msgstr ""
+
+#: inc/generate-blog.php:430
+msgid "Left"
+msgstr ""
+
+#: inc/generate-blog.php:431
+msgid "Right"
+msgstr ""
+
+#: inc/generate-blog.php:452
+msgid "Post Image Width"
+msgstr ""
+
+#: inc/generate-blog.php:456 inc/generate-blog.php:478
+msgid "Auto"
+msgstr ""
+
+#: inc/generate-blog.php:474
+msgid "Post Image Height"
+msgstr ""
+
+#: inc/generate-blog.php:501
+msgid "Date"
+msgstr ""
+
+#: inc/generate-blog.php:531
+msgid "Author"
+msgstr ""
+
+#: inc/generate-blog.php:561
+msgid "Categories"
+msgstr ""
+
+#: inc/generate-blog.php:591
+msgid "Tags"
+msgstr ""
+
+#: inc/generate-blog.php:621
+msgid "Comment Link"
+msgstr ""
+
+#: inc/generate-blog.php:807 inc/generate-blog.php:838
+msgid "Masonry Post Width"
+msgstr ""
+
+#: inc/generate-blog.php:840
+msgid "Global setting"
+msgstr ""
+
+#: inc/ie.php:14
+msgid "Warning: This will delete your settings."
+msgstr ""
+
+#: inc/ie.php:16
+msgid "Delete Blog Customizer Settings"
+msgstr ""
+
+#: inc/ie.php:53
+msgid "Export Blog Customizer Settings"
+msgstr ""
+
+#: inc/verification.php:39
+msgid ""
+"Want updates served directly to your Dashboard? Activate the email you "
+"purchased your add-ons with here."
+msgstr ""
+
+#: inc/verification.php:51 inc/verification.php:65
+msgid "Email"
+msgstr ""
+
+#: inc/verification.php:58
+msgid "Deactivate Email"
+msgstr ""
+
+#: inc/verification.php:70
+msgid "Activate Email"
+msgstr ""
+
+#: inc/verification.php:83
+msgid "Save Email"
+msgstr ""
+
+#: inc/verification.php:94
+msgid "Enable All Updates"
+msgstr ""
+
+#: inc/verification.php:154
+msgid "Disable Updates"
+msgstr ""
+
+#: inc/verification.php:164
+msgid "Enable Updates"
+msgstr ""
+
+#: inc/verification.php:750
+msgid "Email activation failed. This email does not exist in our records."
+msgstr ""
+
+#: inc/verification.php:754
+msgid "Email activated."
+msgstr ""
+
+#: inc/verification.php:758
+msgid "Email deactivated."
+msgstr ""
+
+#: inc/verification.php:762
+msgid "License failed."
+msgstr ""
+
+#: inc/verification.php:766
+msgid "License activated."
+msgstr ""
+
+#: inc/verification.php:770
+msgid "Licenses activated."
+msgstr ""
+
+#: inc/verification.php:774
+msgid "Deactivation failed."
+msgstr ""
+
+#: inc/verification.php:778
+msgid "License deactivated."
+msgstr ""

@@ -1,0 +1,296 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Page Header\n"
+"POT-Creation-Date: 2014-09-01 17:17-0800\n"
+"PO-Revision-Date: 2015-05-22 20:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: generate-page-header.php:344 generate-page-header.php:964
+msgid "Page Header"
+msgstr "En-tête de page"
+
+#: generate-page-header.php:477
+msgid "Image"
+msgstr "Image"
+
+#: generate-page-header.php:478 generate-page-header.php:552
+msgid "Content"
+msgstr "Contenants "
+
+#: generate-page-header.php:483
+msgid ""
+"Note: You've chosen content to show as your page header. Remove the content "
+"and save to use the image below."
+msgstr ""
+"Remarque: Vous avez choisi de montrer le contenu de votre en-tête de page. "
+"Retirer le contenu et enregistrer ce changement pour les utiliser l'image ci-"
+"dessous."
+
+#: generate-page-header.php:492
+msgid "Page Header Image"
+msgstr "Image de l'en-tête de page"
+
+#: generate-page-header.php:496
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: generate-page-header.php:500
+msgid "Page Header Link"
+msgstr "Liens de l'en-tête de page"
+
+#: generate-page-header.php:505
+msgid "Hard Crop"
+msgstr "Fixer la taille de l'image"
+
+#: generate-page-header.php:507
+msgid "Disable"
+msgstr "Désactivé"
+
+#: generate-page-header.php:508
+msgid "Enable"
+msgstr "Activé"
+
+#: generate-page-header.php:514
+msgid "Image Crop Position"
+msgstr "Position de l'image"
+
+#: generate-page-header.php:516 generate-page-header.php:584
+msgid "Center"
+msgstr "Centre"
+
+#: generate-page-header.php:517
+msgid "Top left"
+msgstr "En haut à gauche"
+
+#: generate-page-header.php:518
+msgid "Top right"
+msgstr "En haut à droite"
+
+#: generate-page-header.php:519
+msgid "Bottom left"
+msgstr "En bas à gauche"
+
+#: generate-page-header.php:520
+msgid "Bottom right"
+msgstr "En bas à droite"
+
+#: generate-page-header.php:521 generate-page-header.php:583
+msgid "Left"
+msgstr "Gauche"
+
+#: generate-page-header.php:522 generate-page-header.php:585
+msgid "Right"
+msgstr "Droite"
+
+#: generate-page-header.php:533
+msgid "Image Width"
+msgstr "Largeur de l'image"
+
+#: generate-page-header.php:544
+msgid "Image Height"
+msgstr "Hauteur de l'image"
+
+#: generate-page-header.php:554
+msgid "HTML and shortcodes allowed."
+msgstr "HTML et shortcodes autorisés"
+
+#: generate-page-header.php:557
+msgid "Automatically add paragraphs"
+msgstr "Ajouter automatiquement des paragraphes"
+
+#: generate-page-header.php:560
+msgid "Add padding"
+msgstr "Ajouter remplissage"
+
+#: generate-page-header.php:564
+msgid "Use image (from image tab) as a background image?"
+msgstr ""
+"Utilisez l'image (à partir de l'onglet de l'image) comme image de fond ?"
+
+#: generate-page-header.php:569
+msgid "Background type"
+msgstr "Type de fond"
+
+#: generate-page-header.php:571
+msgid "Contained"
+msgstr "Contenu"
+
+#: generate-page-header.php:572
+msgid "Fluid"
+msgstr "Fluide"
+
+#: generate-page-header.php:577
+msgid "Add parallax effect?"
+msgstr "Ajouter un effet parallax ?"
+
+#: generate-page-header.php:581
+msgid "Text alignment"
+msgstr "Alignement du texte"
+
+#: generate-page-header.php:590
+msgid "Top/Bottom padding"
+msgstr "Remplissage du haut et du bas"
+
+#: generate-page-header.php:595
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: generate-page-header.php:600
+msgid "Link color"
+msgstr "Couleur du lien"
+
+#: generate-page-header.php:605
+msgid "Link color hover"
+msgstr "Couleur d'un lien sélectionné"
+
+#: generate-page-header.php:613
+msgid "Add to blog excerpt (if no Featured Image is set)"
+msgstr "Ajouter un extrait au blog (si aucun photo descriptive n'est active)"
+
+#: generate-page-header.php:988
+msgid "Page Header Position"
+msgstr "Position de l'en-tête de page"
+
+#: generate-page-header.php:991 generate-page-header.php:1021
+msgid "Above Content Area"
+msgstr "Au-dessus de la zone du contenu"
+
+#: generate-page-header.php:992 generate-page-header.php:1022
+msgid "Inside Content Area"
+msgstr "A l'intérieur la zone du contenu"
+
+#: generate-page-header.php:1018
+msgid "Single Post Header Position"
+msgstr "Position de l'en-tête de post "
+
+#: generate-page-header.php:1042
+msgid "Delete Page Header Customizer Settings"
+msgstr "Supprimer les paramètres d'en-tête de page"
+
+#: generate-page-header.php:1074
+msgid "Export Page Header Customizer Settings"
+msgstr "Exporter les paramètres d'en-tête de page"
+
+#: inc/activation.php:43 inc/verification.php:44
+msgid "verified"
+msgstr "Vérifié "
+
+#: inc/activation.php:47 inc/verification.php:56
+msgid "Deactivate"
+msgstr "Désactiver "
+
+#: inc/activation.php:59 inc/verification.php:46
+msgid "unverified"
+msgstr "Non vérifié"
+
+#: inc/activation.php:63
+msgid "Activate"
+msgstr "Activé"
+
+#: inc/old-license.php:14
+msgid "Deactivate License"
+msgstr "Désactiver la licence"
+
+#: inc/old-license.php:15
+msgid "active"
+msgstr "Actif"
+
+#: inc/old-license.php:18
+msgid "Activate License"
+msgstr "Activer la licence"
+
+#: inc/old-license.php:19
+msgid "inactive"
+msgstr "Inactif"
+
+#: inc/old-license.php:23
+msgid "Generate Page Header License Key"
+msgstr "Générer une clef de licence  pour en-tête de page"
+
+#: inc/resizer.php:43 inc/resizer.php:252
+msgid "No image URL has been entered."
+msgstr "Aucune URL d'image n'a été saisie"
+
+#: inc/resizer.php:50
+msgid "At least one of width or height must be a number."
+msgstr ""
+"Au moins une information concernant de la largeur ou de la hauteur doit être "
+"un nombre."
+
+#: inc/resizer.php:311
+msgid "Failed to get $file_path information using \"@getimagesize\"."
+msgstr "Impossible d'obtenir  $file_path information using \"@getimagesize\"."
+
+#: inc/resizer.php:354
+msgid "Resize path invalid (GIF)"
+msgstr "Redimensionner chemin non valide (GIF)"
+
+#: inc/resizer.php:358
+msgid "Resize path invalid (PNG)."
+msgstr "Redimensionner chemin non valide (PNG)."
+
+#: inc/resizer.php:366
+msgid "Resize path invalid (JPG)."
+msgstr "Redimensionner chemin non valide (JPG)."
+
+#: inc/resizer.php:381
+msgid "Failed to get $dest_file_name (resized image) info via @getimagesize"
+msgstr ""
+"Impossible d'obtenir $dest_file_name (resized image) infos via @getimagesize"
+
+#: inc/verification.php:15
+msgid ""
+"Activate your addons by entering the email you purchased them with below. "
+"Save and verify, then your purchased addons will appear below for activation."
+msgstr ""
+"Activez vos addons en entrant l'email que vous avez utilisé pour votre "
+"achat.  Vos plugins achetés apparaîtront ci-dessous pour l'activation. "
+
+#: inc/verification.php:21
+msgid "Email"
+msgstr "Email"
+
+#: inc/verification.php:22 inc/verification.php:77 inc/verification.php:86
+msgid "Status"
+msgstr "Status"
+
+#: inc/verification.php:23 inc/verification.php:78 inc/verification.php:87
+msgid "Action"
+msgstr "Action"
+
+#: inc/verification.php:57
+msgid "Refresh"
+msgstr "Rafraîchir "
+
+#: inc/verification.php:60
+msgid "Verify Email"
+msgstr "Vérifiez l'email"
+
+#: inc/verification.php:70
+msgid "Activate All"
+msgstr "Tout activer"
+
+#: inc/verification.php:75 inc/verification.php:84
+msgid "Product"
+msgstr "Produit "
+
+#: inc/verification.php:76 inc/verification.php:85
+msgid "Version"
+msgstr "Version"
+
+#: inc/verification.php:334
+msgid "Once Every 3 Days"
+msgstr "Une fois tous les 3 jours"

@@ -1,0 +1,223 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Hooks\n"
+"POT-Creation-Date: 2015-05-19 10:38-0800\n"
+"PO-Revision-Date: 2015-05-19 10:38-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr ""
+
+#: inc/functions.php:58 inc/functions.php:83 inc/functions.php:365
+msgid "GP Hooks"
+msgstr ""
+
+#: inc/functions.php:99
+msgid "wp_head"
+msgstr ""
+
+#: inc/functions.php:107
+msgid "Before Header"
+msgstr ""
+
+#: inc/functions.php:115
+msgid "Before Header Content"
+msgstr ""
+
+#: inc/functions.php:123
+msgid "After Header Content"
+msgstr ""
+
+#: inc/functions.php:131
+msgid "After Header"
+msgstr ""
+
+#: inc/functions.php:139
+msgid "Inside Content Container"
+msgstr ""
+
+#: inc/functions.php:147
+msgid "Before Content"
+msgstr ""
+
+#: inc/functions.php:155
+msgid "After Entry Title"
+msgstr ""
+
+#: inc/functions.php:163
+msgid "After Content"
+msgstr ""
+
+#: inc/functions.php:171
+msgid "Before Right Sidebar Content"
+msgstr ""
+
+#: inc/functions.php:179
+msgid "After Right Sidebar Content"
+msgstr ""
+
+#: inc/functions.php:187
+msgid "Before Left Sidebar Content"
+msgstr ""
+
+#: inc/functions.php:195
+msgid "After Left Sidebar Content"
+msgstr ""
+
+#: inc/functions.php:203
+msgid "Before Footer"
+msgstr ""
+
+#: inc/functions.php:211
+msgid "After Footer Widgets"
+msgstr ""
+
+#: inc/functions.php:219
+msgid "Before Footer Content"
+msgstr ""
+
+#: inc/functions.php:227
+msgid "After Footer Content"
+msgstr ""
+
+#: inc/functions.php:235
+msgid "wp_footer"
+msgstr ""
+
+#: inc/functions.php:318
+msgid "Execute PHP"
+msgstr ""
+
+#: inc/functions.php:319
+msgid "Disable Hook"
+msgstr ""
+
+#: inc/functions.php:367
+msgid ""
+"Use these fields to insert anything you like throughout GeneratePress. "
+"Shortcodes are allowed, and you can even use PHP if you check the Execute "
+"PHP checkboxes."
+msgstr ""
+
+#: inc/functions.php:369
+msgid "Show all"
+msgstr ""
+
+#: inc/functions.php:380
+msgid "Save Settings"
+msgstr ""
+
+#: inc/functions.php:450
+msgid "Hooks saved."
+msgstr ""
+
+#: inc/ie.php:56
+msgid "Export GP Hooks"
+msgstr ""
+
+#: inc/ie.php:106
+msgid "Warning: This will delete your settings."
+msgstr ""
+
+#: inc/ie.php:108
+msgid "Delete GP Hooks"
+msgstr ""
+
+#: inc/verification.php:39
+msgid ""
+"Want updates served directly to your Dashboard? Activate the email you "
+"purchased your add-ons with here."
+msgstr ""
+
+#: inc/verification.php:51 inc/verification.php:65
+msgid "Email"
+msgstr ""
+
+#: inc/verification.php:58
+msgid "Deactivate Email"
+msgstr ""
+
+#: inc/verification.php:70
+msgid "Activate Email"
+msgstr ""
+
+#: inc/verification.php:83
+msgid "Save Email"
+msgstr ""
+
+#: inc/verification.php:94
+msgid "Enable All Updates"
+msgstr ""
+
+#: inc/verification.php:154
+msgid "Disable Updates"
+msgstr ""
+
+#: inc/verification.php:164
+msgid "Enable Updates"
+msgstr ""
+
+#: inc/verification.php:750
+msgid "Email activation failed. This email does not exist in our records."
+msgstr ""
+
+#: inc/verification.php:754
+msgid "Email activated."
+msgstr ""
+
+#: inc/verification.php:758
+msgid "Email deactivated."
+msgstr ""
+
+#: inc/verification.php:762
+msgid "License failed."
+msgstr ""
+
+#: inc/verification.php:766
+msgid "License activated."
+msgstr ""
+
+#: inc/verification.php:770
+msgid "Licenses activated."
+msgstr ""
+
+#: inc/verification.php:774
+msgid "Deactivation failed."
+msgstr ""
+
+#: inc/verification.php:778
+msgid "License deactivated."
+msgstr ""

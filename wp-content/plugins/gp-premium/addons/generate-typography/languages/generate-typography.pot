@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Typography\n"
+"POT-Creation-Date: 2015-05-20 10:48-0800\n"
+"PO-Revision-Date: 2015-05-20 10:48-0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr ""
+
+#: inc/customizer/google-font-dropdown-custom-control.php:34
+msgid "Default fonts"
+msgstr ""
+
+#: inc/customizer/google-font-dropdown-custom-control.php:53
+msgid "Google fonts"
+msgstr ""
+
+#: inc/customizer/google-font-dropdown-custom-control.php:63
+msgid "Font family"
+msgstr ""
+
+#: inc/functions.php:67
+msgid "Typography"
+msgstr ""
+
+#: inc/functions.php:78
+msgid "Body Typography"
+msgstr ""
+
+#: inc/functions.php:100
+msgid "Body"
+msgstr ""
+
+#: inc/functions.php:121 inc/functions.php:221 inc/functions.php:308
+#: inc/functions.php:408 inc/functions.php:479 inc/functions.php:497
+#: inc/functions.php:515 inc/functions.php:666
+msgid "Font weight"
+msgstr ""
+
+#: inc/functions.php:143 inc/functions.php:243 inc/functions.php:330
+#: inc/functions.php:430 inc/functions.php:483 inc/functions.php:501
+#: inc/functions.php:519 inc/functions.php:688
+msgid "Text transform"
+msgstr ""
+
+#: inc/functions.php:165 inc/functions.php:265 inc/functions.php:352
+#: inc/functions.php:452 inc/functions.php:710
+msgid "Font size"
+msgstr ""
+
+#: inc/functions.php:178
+msgid "Header Typography"
+msgstr ""
+
+#: inc/functions.php:200
+msgid "Site title"
+msgstr ""
+
+#: inc/functions.php:287
+msgid "Site tagline"
+msgstr ""
+
+#: inc/functions.php:365
+msgid "Navigation Typography"
+msgstr ""
+
+#: inc/functions.php:387
+msgid "Site navigation"
+msgstr ""
+
+#: inc/functions.php:465
+msgid "Content Typography"
+msgstr ""
+
+#: inc/functions.php:475
+msgid "Heading 1 (H1)"
+msgstr ""
+
+#: inc/functions.php:487 inc/functions.php:505 inc/functions.php:523
+msgid "Font-size"
+msgstr ""
+
+#: inc/functions.php:493
+msgid "Heading 2 (H2)"
+msgstr ""
+
+#: inc/functions.php:511
+msgid "Heading 3 (H3)"
+msgstr ""
+
+#: inc/functions.php:623
+msgid "Widget Typography"
+msgstr ""
+
+#: inc/functions.php:645
+msgid "Widget titles"
+msgstr ""
+
+#: inc/functions.php:731
+msgid "Content font size"
+msgstr ""
+
+#: inc/verification.php:39
+msgid ""
+"Want updates served directly to your Dashboard? Activate the email you "
+"purchased your add-ons with here."
+msgstr ""
+
+#: inc/verification.php:51 inc/verification.php:65
+msgid "Email"
+msgstr ""
+
+#: inc/verification.php:58
+msgid "Deactivate Email"
+msgstr ""
+
+#: inc/verification.php:70
+msgid "Activate Email"
+msgstr ""
+
+#: inc/verification.php:83
+msgid "Save Email"
+msgstr ""
+
+#: inc/verification.php:94
+msgid "Enable All Updates"
+msgstr ""
+
+#: inc/verification.php:154
+msgid "Disable Updates"
+msgstr ""
+
+#: inc/verification.php:164
+msgid "Enable Updates"
+msgstr ""
+
+#: inc/verification.php:750
+msgid "Email activation failed. This email does not exist in our records."
+msgstr ""
+
+#: inc/verification.php:754
+msgid "Email activated."
+msgstr ""
+
+#: inc/verification.php:758
+msgid "Email deactivated."
+msgstr ""
+
+#: inc/verification.php:762
+msgid "License failed."
+msgstr ""
+
+#: inc/verification.php:766
+msgid "License activated."
+msgstr ""
+
+#: inc/verification.php:770
+msgid "Licenses activated."
+msgstr ""
+
+#: inc/verification.php:774
+msgid "Deactivation failed."
+msgstr ""
+
+#: inc/verification.php:778
+msgid "License deactivated."
+msgstr ""

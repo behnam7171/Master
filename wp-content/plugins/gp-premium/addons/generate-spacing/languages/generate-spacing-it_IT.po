@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Generate Spacing\n"
+"POT-Creation-Date: 2015-06-26 14:54+0100\n"
+"PO-Revision-Date: 2015-06-26 15:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: it_IT\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/EDD_SL_Plugin_Updater.php:177
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+"È disponibile una nuova versione di %1$s . <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">Vedi i dettagli della  versione %3$s </a>."
+
+#: inc/EDD_SL_Plugin_Updater.php:184
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+"E' disponibile una nuova versione di %1$s <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">Visualizza i dettagli della versione %3$s</a> "
+"oppure <a href=\"%4$s\">aggiorna adesso</a>."
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+"Non hai diritti di accesso sufficienti per effettuare aggiornamenti al "
+"plugin"
+
+#: inc/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr "Errore"
+
+#: inc/functions.php:58
+msgid "Element Spacing"
+msgstr "Spaziatura degli elementi"
+
+#: inc/functions.php:61
+msgid "Change the spacing for various elements using pixels."
+msgstr "Cambia la spaziatura dei diversi elementi utilizzando pixels."
+
+#: inc/functions.php:83
+msgid "Header"
+msgstr "Testata"
+
+#: inc/functions.php:85 inc/functions.php:116 inc/functions.php:147
+#: inc/functions.php:178 inc/functions.php:209
+msgid "Top"
+msgstr "Sopra"
+
+#: inc/functions.php:86 inc/functions.php:117 inc/functions.php:148
+#: inc/functions.php:179 inc/functions.php:210
+msgid "Right"
+msgstr "Destra"
+
+#: inc/functions.php:87 inc/functions.php:118 inc/functions.php:149
+#: inc/functions.php:180 inc/functions.php:211
+msgid "Bottom"
+msgstr "Sotto"
+
+#: inc/functions.php:88 inc/functions.php:119 inc/functions.php:150
+#: inc/functions.php:181 inc/functions.php:212
+msgid "Left"
+msgstr "Sinistra"
+
+#: inc/functions.php:114
+msgid "Content"
+msgstr "Contenuto"
+
+#: inc/functions.php:145
+msgid "Sidebar Widgets"
+msgstr "Widgets della Sidebar"
+
+#: inc/functions.php:176
+msgid "Footer Widget Area"
+msgstr "Widgets del Footer"
+
+#: inc/functions.php:207
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/functions.php:384
+msgid "Separating Space"
+msgstr "Spazio di separazione"
+
+#: inc/functions.php:385
+msgid ""
+"The spacing between elements when \"Content Layout\" is set to \"Separate "
+"Containers\"."
+msgstr ""
+"Spazio tra gli elementi quando il \"Content Layout\" è impostato su "
+"\"Contenitori Separati\"."
+
+#: inc/functions.php:432
+msgid "Primary Menu Items"
+msgstr "Voci del Menu Principale"
+
+#: inc/functions.php:433
+msgid "These options control the size of your menu items."
+msgstr "Queste opzioni regolano le dimensioni delle voci di menu"
+
+#: inc/functions.php:437
+msgid "Left/Right Spacing"
+msgstr "Spazio a Destra/Sinistra"
+
+#: inc/functions.php:438
+msgid "Height"
+msgstr "Altezza"
+
+#: inc/functions.php:504
+msgid "Sub-menu Item Height"
+msgstr "Altezza delle voci dei sottomenu"
+
+#: inc/functions.php:505
+msgid "The top and bottom spacing of sub-menu items."
+msgstr "Spazio sopra e sotto delle voci di menu"
+
+#: inc/functions.php:551
+msgid "Sidebar Widths"
+msgstr "Larghezze Sidebar"
+
+#: inc/functions.php:579
+msgid "Left Sidebar"
+msgstr "Sidebar Sinistra"
+
+#: inc/functions.php:582 inc/functions.php:618
+msgid "15%"
+msgstr "15%"
+
+#: inc/functions.php:583 inc/functions.php:619
+msgid "20%"
+msgstr "20%"
+
+#: inc/functions.php:584 inc/functions.php:620
+msgid "25%"
+msgstr "25%"
+
+#: inc/functions.php:585 inc/functions.php:621
+msgid "30%"
+msgstr "30%"
+
+#: inc/functions.php:586 inc/functions.php:622
+msgid "35%"
+msgstr "35%"
+
+#: inc/functions.php:587 inc/functions.php:623
+msgid "40%"
+msgstr "40%"
+
+#: inc/functions.php:588 inc/functions.php:624
+msgid "45%"
+msgstr "45%"
+
+#: inc/functions.php:589 inc/functions.php:625
+msgid "50%"
+msgstr "50%"
+
+#: inc/functions.php:615
+msgid "Right Sidebar"
+msgstr "Sidebar Destra"
+
+#: inc/ie.php:15
+msgid "Delete Spacing Customizer Settings"
+msgstr "Cancella le impostazioni \"Spacing\""
+
+#: inc/ie.php:53
+msgid "Export Spacing Customizer Settings"
+msgstr "Esporta le impostazioni \"Spacing\""
+
+#: inc/verification.php:39
+msgid ""
+"Want updates served directly to your Dashboard? Activate the email you "
+"purchased your add-ons with here."
+msgstr ""
+"Vorresti aggiornamenti automatici direttamente sulla tua dashboard? "
+"Attiva la email con la quale hai acquistato i tuoi add-ons inserendola in "
+"questo campo."
+
+#: inc/verification.php:47 inc/verification.php:61
+msgid "Email"
+msgstr "Email"
+
+#: inc/verification.php:54
+msgid "Deactivate Email"
+msgstr "Disattiva Email"
+
+#: inc/verification.php:66
+msgid "Activate Email"
+msgstr "Attiva Email"
+
+#: inc/verification.php:79
+msgid "Save Email"
+msgstr "Salva Email"
+
+#: inc/verification.php:90
+msgid "Enable All Updates"
+msgstr "Attiva Tutti gli aggiornamenti"
+
+#: inc/verification.php:342
+msgid "Email activation failed. This email does not exist in our records."
+msgstr ""
+"L'attivazione della tua email non è andata a buon fine. Questa email non "
+"è presente nei nostri archivi."
+
+#: inc/verification.php:346
+msgid "Email activated."
+msgstr "Email attivata"
+
+#: inc/verification.php:350
+msgid "Email deactivated."
+msgstr "Email disattivata"
+
+#: inc/verification.php:354
+msgid "License failed."
+msgstr "Licenza rifiutata"
+
+#: inc/verification.php:358
+msgid "License activated."
+msgstr "Licenza attivata"
+
+#: inc/verification.php:362
+msgid "Licenses activated."
+msgstr "Licenze attivate"
+
+#: inc/verification.php:366
+msgid "Deactivation failed."
+msgstr "La disattivazione non è andata a buon fine"
+
+#: inc/verification.php:370
+msgid "License deactivated."
+msgstr "Licenza disattivata"
+
+#: inc/verification.php:405
+msgid "Disable Updates"
+msgstr "Disabilita gli aggiornamenti"
+
+#: inc/verification.php:415
+msgid "Enable Updates"
+msgstr "Attiva gli aggiornamenti"
