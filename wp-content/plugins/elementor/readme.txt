@@ -3,7 +3,7 @@ Contributors: pojo.me, KingYes, ariel.k, jzaltzberg, yehudah
 Tags: page builder, editor, builder, visual editor, front-end editor, design, drag and drop builder, front-end builder, landing page, page builder plugin, site builder, template builder, visual builder, website builder, wysiwyg
 Requires at least: 4.4
 Tested up to: 4.6
-Stable tag: 0.9.3
+Stable tag: 0.10.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -156,6 +156,23 @@ No. Elementor supports WordPress 4.4 or greater, and is compatible with PHP 5.4 
 5. **Responsive Design.** Create custom settings for desktop, tablet & mobile by switching between devices.
 
 == Changelog ==
+
+= 0.10.1 - 09.10.2016 =
+* Fix! - Image size default
+
+= 0.10.0 - 09.10.2016 =
+* New! - Choose which colors appear in the editor's color picker. This makes accessing the colors you choose for the site much easier
+* New! - Clear the entire page content in one click ([#607](https://github.com/pojome/elementor/issues/607))
+* New! - Added image size control for Image widget ([#537](https://github.com/pojome/elementor/issues/537))
+* New! - Added social icon for Twitch.tv ([#694](https://github.com/pojome/elementor/issues/694))
+* Tweak! - Data stored in a JSON format instead of serialize, for smoother migration ([#403](https://github.com/pojome/elementor/issues/403))
+* Tweak! - Added Apply button for all WP widgets to trigger loading of external scripts
+* Tweak! - Adding a preview icon for repeater control ([#609](https://github.com/pojome/elementor/issues/609))
+* Tweak! - All widgets code rewritten to allow for better API flexibility
+* Fix! - Icon under 20px size now looks good
+* Fix! - Improve CSS for Icon list alignment ([#620](https://github.com/pojome/elementor/issues/620))
+* Fix! - Ninja Forms widget conflict ([#546](https://github.com/pojome/elementor/issues/546))
+* Fix! - Global Fonts Don't Show Up on Live Preview Screen ([#606](https://github.com/pojome/elementor/issues/606))
 
 = 0.9.3 - 26.09.2016 =
 * Tweak! - New method for import template library

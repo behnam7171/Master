@@ -1,4 +1,4 @@
-/*! elementor - v0.9.3 - 26-09-2016 */
+/*! elementor - v0.10.1 - 09-10-2016 */
 @charset "UTF-8";
 body.layout-section .entry-content {
   overflow: visible; }
@@ -247,7 +247,7 @@ html.elementor-html {
   display: none; }
 .elementor-editor-active .elementor-column.elementor-dragging div.elementor-column-wrap {
   min-height: 50px; }
-.elementor-editor-active div.handle {
+.elementor-editor-active .handle {
   display: none; }
 .elementor-editor-active .elementor-sortable-placeholder {
   background: #71d7f7;
