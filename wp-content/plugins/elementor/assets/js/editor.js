@@ -1,4 +1,4 @@
-/*! elementor - v0.10.1 - 09-10-2016 */
+/*! elementor - v0.10.2 - 10-10-2016 */
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
 var HandleAddDuplicateBehavior;
 
@@ -1928,18 +1928,20 @@ EditorCompositeView = Marionette.CompositeView.extend( {
 		};
 	},
 
-	childViewContainer: 'div.elementor-controls',
+	childViewContainer: '#elementor-controls',
 
 	modelEvents: {
 		'destroy': 'onModelDestroy'
 	},
 
 	ui: {
-		'tabs': '.elementor-tabs-controls li'
+		tabs: '.elementor-tabs-controls li',
+		reloadButton: '#elementor-update-preview-button'
 	},
 
 	events: {
-		'click @ui.tabs a': 'onClickTabControl'
+		'click @ui.tabs a': 'onClickTabControl',
+		'click @ui.reloadButton': 'onReloadButtonClick'
 	},
 
 	initialize: function() {
@@ -1948,6 +1950,7 @@ EditorCompositeView = Marionette.CompositeView.extend( {
 
 	getChildView: function( item ) {
 		var controlType = item.get( 'type' );
+
 		return elementor.getControlItemView( controlType );
 	},
 
@@ -2092,6 +2095,10 @@ EditorCompositeView = Marionette.CompositeView.extend( {
 		} );
 
 		elementor.channels.data.trigger( 'scrollbar:update' );
+	},
+
+	onReloadButtonClick: function() {
+		elementor.reloadPreview();
 	}
 } );
 
@@ -7126,15 +7133,13 @@ ControlWPWidgetItemView = ControlBaseItemView.extend( {
 
 		ui.form = 'form';
 		ui.loading = '.wp-widget-form-loading';
-		ui.reloadButton = '#elementor-update-preview-button';
 
 		return ui;
 	},
 
 	events: {
 		'keyup @ui.form :input': 'onFormChanged',
-		'change @ui.form :input': 'onFormChanged',
-		'click @ui.reloadButton': 'onReloadButtonClick'
+		'change @ui.form :input': 'onFormChanged'
 	},
 
 	onFormChanged: function() {
@@ -7154,10 +7159,6 @@ ControlWPWidgetItemView = ControlBaseItemView.extend( {
 				this.ui.form.html( data );
 			}, this )
 		} );
-	},
-
-	onReloadButtonClick: function() {
-		elementor.reloadPreview();
 	}
 } );
 

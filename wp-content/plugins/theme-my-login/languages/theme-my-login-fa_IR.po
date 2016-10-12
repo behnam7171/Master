@@ -1,0 +1,1434 @@
+# Copyright (C) 2012 Theme My Login
+# This file is distributed under the same license as the Theme My Login package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme My Login 6.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/theme-my-login\n"
+"POT-Creation-Date: 2012-03-08 16:19:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-08-03 11:43+0330\n"
+"Last-Translator: Mojtaba Anisi <geevepahlavan@yahoo.com>\n"
+"Language-Team: wp-parsi <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+
+#. #-#-#-#-#  plugin.pot (Theme My Login 6.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-theme-my-login-admin.php:42
+#: admin/class-theme-my-login-admin.php:43
+#: includes/class-theme-my-login-widget.php:24
+msgid "Theme My Login"
+msgstr "تغییر ظاهر صفحه ورود من"
+
+#: admin/class-theme-my-login-admin.php:81
+msgid "ERROR: The module \"%1$s\" could not be activated (%2$s)."
+msgstr "خطا: ماژول \"%1$s\" فعال نمی باشد (%2$s)."
+
+#: admin/class-theme-my-login-admin.php:103
+msgid "NOTICE:"
+msgstr "توجه:"
+
+#: admin/class-theme-my-login-admin.php:104
+msgid "Now that you have activated Theme My Login, please <a href=\"%s\">visit the settings page</a> and familiarize yourself with all of the available options."
+msgstr "حالا که Theme My Login را فعال کرده اید , لطفا به <a href=\"%s\">صفحه تنظیمات</a> مراجعه کنید و با تمام گزینه های در دسترس آشنا شوید."
+
+#: admin/class-theme-my-login-admin.php:106
+msgid "Take me to the settings page"
+msgstr "منو ببر به صفحه تنظیمات"
+
+#: admin/class-theme-my-login-admin.php:119
+msgid "You can now login with your e-mail address or username! Try it out!"
+msgstr "شما هم اکنون می توانید با آدرس ایمیل یا نام کاربری خود وارد شوید! آن را امتحان کنید!"
+
+#: admin/class-theme-my-login-admin.php:120
+msgid "Theme My Login now utilizes a module system. Modules are similar to WordPress plugins. Each module extends the default functionality of Theme My Login. <a rel=\"tml-options\" href=\"#tml-options-modules\">Click here</a> to get started with modules now."
+msgstr "Theme My Login در حال بهره گیری از یک سیستم ماژول است.ماژول شبیه به افزونه های وردپرس می باشد. به طور پیش فرض ماژول Theme My Login قابلیت گسترش دارد. هم اکنون<a rel=\"tml-options\" href=\"#tml-options-modules\"> اینجا را کلیک کنید</a>  برای دریافت ماژول ها."
+
+#: admin/class-theme-my-login-admin.php:121
+msgid "Theme My Login now allows custom forms. You can create your own form template(s) by copying the default version(s) from \"theme-my-login/templates\" to your current theme directory. Try it out!"
+msgstr "این افزونه قابلیت فرم های سفارشی را برای شما فراهم نموده است. شما می توانید قالب فرم مخصوص به خود را ایجاد کنید. تنها کافی است نسخه های اصلی را از  \"theme-my-login/templates\" در مسیر قالب فعلی خود کپی کنید. امتحان کنید ضرری ندارد!"
+
+#: admin/class-theme-my-login-admin.php:122
+msgid "You can maintain your stylesheet changes between upgrades. Just simply copy the file \"theme-my-login/theme-my-login.css\" to your current theme directory and edit it as you please!"
+msgstr "شما می توانید تغییرات شیوه نامه خود را به سادگی پس از ارتقاء حفظ کند. با کپی کردن فایل \"theme-my-login/theme-my-login.css\" به پوشه تم فعلی سایتتون!"
+
+#: admin/class-theme-my-login-admin.php:123
+msgid "Theme My Login provides a shortcode that you can use within your posts with multiple parameters to customize the form. Visit the <a href=\"http://www.jfarthing.com/docs/theme-my-login/shortcode\" target=\"_blank\">Theme My Login Documentation</a> for usage instructions."
+msgstr "این افزونه یا فراهم آوردن کد کوتاه (shortcode) به شما امکان استفاده از فرم ها در نوشته ها را می دهد. این کد کوتاه با دریافت چندین پارامتر، دست شما را در اختصاصی سازی فرم ها باز می گذارد. برای آگاهی از نحوه این کار، <a href=\"http://www.jfarthing.com/docs/theme-my-login/shortcode\" target=\"_blank\">مستندات افزونه</a> را ببینید."
+
+#: admin/class-theme-my-login-admin.php:124
+msgid "Jeff is <a href=\"http://www.jfarthing.com/hire-me\" target=\"_blank\">available for hire</a>!"
+msgstr "جف در <a href=\"http://www.jfarthing.com/hire-me\" target=\"_blank\">آماده خدمت به شماست</a>!"
+
+#: admin/class-theme-my-login-admin.php:128
+msgid "Did You Know?"
+msgstr "آیا می دانستید؟"
+
+#: admin/class-theme-my-login-admin.php:177
+msgid "General"
+msgstr "عمومی"
+
+#: admin/class-theme-my-login-admin.php:178
+msgid "Basic"
+msgstr "اساسی"
+
+#: admin/class-theme-my-login-admin.php:179
+#: admin/class-theme-my-login-admin.php:319
+msgid "Modules"
+msgstr "ماژول ها"
+
+#: admin/class-theme-my-login-admin.php:181
+msgid "Permalinks"
+msgstr "یکتا"
+
+#: admin/class-theme-my-login-admin.php:188
+msgid "Theme My Login Settings"
+msgstr "تنظیمات Theme My Login"
+
+#: admin/class-theme-my-login-admin.php:194
+#: admin/class-theme-my-login-admin.php:254
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: admin/class-theme-my-login-admin.php:271
+msgid "Page ID"
+msgstr "شماره صفحه"
+
+#: admin/class-theme-my-login-admin.php:274
+msgid "This should be the ID of the WordPress page that includes the [theme-my-login] shortcode. By default, this page is titled \"Login\"."
+msgstr "این مورد، باید شناسه برگه ای از وردپرس باشد که در آن کد کوتاه [theme-my-login] درج شده است. به طور پیش فرض، از برگه عنوان \"ورود\" را داراست."
+
+#: admin/class-theme-my-login-admin.php:278
+msgid "Pagelist"
+msgstr "لیست صفحات"
+
+#: admin/class-theme-my-login-admin.php:281
+msgid "Show Page In Pagelist"
+msgstr "نمایش صفحه در لیست صفحات"
+
+#: admin/class-theme-my-login-admin.php:282
+msgid "Enable this setting to add login/logout links to the pagelist generated by functions like wp_list_pages() and wp_page_menu()."
+msgstr "برای افزوده شدن لینک های ورود/خروج به خروجی توابعی همانند  wp_list_pages() و wp_page_menu() که وظیفه ایجاد فهرستی از صفحات را دارند، این گزینه را فعال کنید."
+
+#: admin/class-theme-my-login-admin.php:286
+msgid "Stylesheet"
+msgstr "شیوه نامه"
+
+#: admin/class-theme-my-login-admin.php:289
+msgid "Enable \"theme-my-login.css\""
+msgstr "فعال کردن \"theme-my-login.css\""
+
+#: admin/class-theme-my-login-admin.php:290
+msgid "In order to keep changes between upgrades, you can store your customized \"theme-my-login.css\" in your current theme directory."
+msgstr "برای جلوگیری از پاک شدن تغییرات در شیوه نامه پس از ارتقا افزونه، شما میتوانید فایل استایل موجود در پوشه افزونه \"theme-my-login.css\" را به پوشه پوسته خود منتقل کنید."
+
+#: admin/class-theme-my-login-admin.php:294
+msgid "E-mail Login"
+msgstr "ورود با ایمیل"
+
+#: admin/class-theme-my-login-admin.php:297
+msgid "Enable e-mail address login"
+msgstr "فعال کردن ورود با ایمیل آدرس"
+
+#: admin/class-theme-my-login-admin.php:298
+msgid "Allows users to login using their e-mail address in place of their username."
+msgstr "به کاربران اجازه میدهد برای ورود به سیستم از آدرس ایمیل به جای نام کاربری استفاده کنند."
+
+#: admin/class-theme-my-login-admin.php:323
+msgid "Enable %s"
+msgstr "فعال کردن %s"
+
+#: admin/class-theme-my-login-admin.php:325
+msgid "No modules found."
+msgstr "بدون ماژول."
+
+#: admin/class-theme-my-login-admin.php:343
+#: includes/class-theme-my-login-widget.php:87
+msgid "Login"
+msgstr "ورود"
+
+#: admin/class-theme-my-login-admin.php:344
+#: includes/class-theme-my-login-template.php:141
+#: includes/class-theme-my-login-widget.php:87
+#: templates/register-form.php:25
+msgid "Register"
+msgstr "ثبت نام"
+
+#: admin/class-theme-my-login-admin.php:345
+#: includes/class-theme-my-login-template.php:147
+#: includes/class-theme-my-login-widget.php:87
+msgid "Lost Password"
+msgstr "رمز فراموش شده"
+
+#: admin/class-theme-my-login-admin.php:475
+msgid "One of the modules is invalid."
+msgstr "یکی از ماژول ها نامعتبر است."
+
+#: admin/class-theme-my-login-admin.php:531
+msgid "Invalid module path."
+msgstr "مسیر نامعتبر ماژول."
+
+#: admin/class-theme-my-login-admin.php:533
+msgid "Module file does not exist."
+msgstr "فایل ماژول وجود ندارد."
+
+#: admin/class-theme-my-login-admin.php:537
+msgid "The module does not have a valid header."
+msgstr "ماژول هدر معتبر ندارد."
+
+#: includes/class-theme-my-login-ms-signup.php:117
+msgctxt "Multisite active signup type"
+msgid "all"
+msgstr "همه"
+
+#: includes/class-theme-my-login-ms-signup.php:118
+msgctxt "Multisite active signup type"
+msgid "none"
+msgstr "هیچ"
+
+#: includes/class-theme-my-login-ms-signup.php:119
+msgctxt "Multisite active signup type"
+msgid "blog"
+msgstr "وبلاگ"
+
+#: includes/class-theme-my-login-ms-signup.php:120
+msgctxt "Multisite active signup type"
+msgid "user"
+msgstr "کاربر"
+
+#: includes/class-theme-my-login-ms-signup.php:123
+msgid "Greetings Site Administrator! You are currently allowing &#8220;%s&#8221; registrations. To change or disable registration go to your <a href=\"%s\">Options page</a>."
+msgstr "تبریک می گوییم مدیریت عزیز! شما هم اکنون \"%s\" اجازه عضویت را صادر کرده اید. برای تغییر یا غیرفعال کردن امکان عضویت، به <a href=\"%s\">صفحه تنظیمات</a> بروید."
+
+#: includes/class-theme-my-login-ms-signup.php:129
+msgid "Registration has been disabled."
+msgstr "ثبت نام غیر فعال شده است."
+
+#: includes/class-theme-my-login-ms-signup.php:131
+msgid "You must first <a href=\"%s\">log in</a>, and then you can create a new site."
+msgstr "ابتدا شما باید <a href=\"%s\">وارد سایت شوید</a>، سپس شما می توانید سایت جدید بسازید."
+
+#: includes/class-theme-my-login-ms-signup.php:155
+msgid "%s is your new username"
+msgstr "%s نام کاربری جدید شما می باشد"
+
+#: includes/class-theme-my-login-ms-signup.php:156
+msgid "But, before you can start using your new username, <strong>you must activate it</strong>."
+msgstr "اما، قبل از اینکه شروع به استفاده از نام کاربری جدید کنید، <strong>باید آن را فعال کنید</strong>."
+
+#: includes/class-theme-my-login-ms-signup.php:157
+msgid "Check your inbox at <strong>%1$s</strong> and click the link given."
+msgstr "صندوق ورودی ایمیل <strong>%1$s</strong> را چک کنید و  بر روی لینک داده شده کلیک کنید."
+
+#: includes/class-theme-my-login-ms-signup.php:158
+msgid "If you do not activate your username within two days, you will have to sign up again."
+msgstr "اگر شما نام کاربری خود را ظرف دو روز فعال نکنید، باید دوباره ثبت نام کنید."
+
+#: includes/class-theme-my-login-ms-signup.php:162
+msgid "User registration has been disabled."
+msgstr "ثبت نام کاربر غیر فعال شده است."
+
+#: includes/class-theme-my-login-ms-signup.php:194
+msgid "Congratulations! Your new site, %s, is almost ready."
+msgstr "تبریک می گویم!سایت جدید شما،٪ S، تقریبا آماده است."
+
+#: includes/class-theme-my-login-ms-signup.php:196
+msgid "But, before you can start using your site, <strong>you must activate it</strong>."
+msgstr "اما, شما قبل از شروع به کار با سایت خودتون, <strong>باید آن را فعال کنید.</strong>."
+
+#: includes/class-theme-my-login-ms-signup.php:197
+msgid "Check your inbox at <strong>%s</strong> and click the link given."
+msgstr "چک کردن صندوق پستی خود <strong>%s</strong> و کلیک بر روی لینک داده شده."
+
+#: includes/class-theme-my-login-ms-signup.php:198
+msgid "If you do not activate your site within two days, you will have to sign up again."
+msgstr "اگر شما سایت خود را در ظرف دو روز فعال نکنید، باید دوباره ثبت نام کنید."
+
+#: includes/class-theme-my-login-ms-signup.php:199
+msgid "Still waiting for your email?"
+msgstr "هنوز منتظر ایمیلتون هستین؟"
+
+#: includes/class-theme-my-login-ms-signup.php:201
+msgid "If you haven&#8217;t received your email yet, there are a number of things you can do:"
+msgstr "اگر شما از &#8217;t پست الکترونیک خود را هنوز دریافت نکرده اند، تعدادی از چیزهایی که شما می توانید انجام دهید وجود دارد:"
+
+#: includes/class-theme-my-login-ms-signup.php:203
+msgid "Wait a little longer. Sometimes delivery of email can be delayed by processes outside of our control."
+msgstr "صبر طولانی تر. گاهی اوقات تحویل ایمیل به تاخیر افتاده است."
+
+#: includes/class-theme-my-login-ms-signup.php:204
+msgid "Check the junk or spam folder of your email client. Sometime emails wind up there by mistake."
+msgstr "پوشه اسپم یا Junk ایمیل خود را چک کنید شاید استباهی به عنوان اسپم شناخته شده باشه."
+
+#: includes/class-theme-my-login-ms-signup.php:205
+msgid "Have you entered your email correctly?  You have entered %s, if it&#8217;s incorrect, you will not receive your email."
+msgstr "شما آدرس ایمیل را درست وارد کرده اید؟ شما ایمیل %s را وارد کرده اید، اگر it&#8217;s اشتباه میباشد،شما ایمیلی دریافت نخواهید کرد."
+
+#: includes/class-theme-my-login-ms-signup.php:211
+msgid "Site registration has been disabled."
+msgstr "ثبت نام در سایت غیر فعال شده است."
+
+#: includes/class-theme-my-login-ms-signup.php:235
+msgid "The site %s is yours."
+msgstr "%s شایت شما است."
+
+#: includes/class-theme-my-login-ms-signup.php:237
+msgid "<a href=\"http://%1$s\">http://%2$s</a> is your new site.  <a href=\"%3$s\">Log in</a> as &#8220;%4$s&#8221; using your existing password."
+msgstr "<a href=\"http://%1$s\">http://%2$s</a>سایت جدید شما می باشد.  <a href=\"%3$s\">وارد شوید</a> به عنوان &#8220;%4$s&#8221; با استفاده از رمز عبوری که انتخاب کردین."
+
+#: includes/class-theme-my-login-ms-signup.php:253
+msgid "Sorry, new registrations are not allowed at this time."
+msgstr "با عرض پوزش، ثبت نام جدید در این زمان امکان پذیر نیست."
+
+#: includes/class-theme-my-login-ms-signup.php:255
+msgid "You are logged in already. No need to register again!"
+msgstr "شما در حال حاضر وارد شده اید. نیاز به ثبت نام دوباره نیست!"
+
+#: includes/class-theme-my-login-ms-signup.php:261
+msgid "<p><em>The site you were looking for, <strong>%s</strong> does not exist, but you can create it now!</em></p>"
+msgstr "<p><em>دنباله ای برای سایت شما، <strong>%s</strong> وجود ندارد، اما شما میتوانید اکنون ایجاد کنید!</em></p>"
+
+#: includes/class-theme-my-login-ms-signup.php:263
+msgid "<p><em>The site you were looking for, <strong>%s</strong>, does not exist.</em></p>"
+msgstr "<p><em>دنباله ای برای سایت شما، <strong>%s</strong>,وجود ندارد.</em></p>"
+
+#: includes/class-theme-my-login-ms-signup.php:402
+msgid "Activation Key Required"
+msgstr "کلید فعال سازی لازم می باشد"
+
+#: includes/class-theme-my-login-ms-signup.php:405
+msgid "Activation Key:"
+msgstr "کلید فعال سازی :"
+
+#: includes/class-theme-my-login-ms-signup.php:409
+#: includes/class-theme-my-login-ms-signup.php:481
+msgid "Activate"
+msgstr "فعال کردن"
+
+#: includes/class-theme-my-login-ms-signup.php:421
+#: includes/class-theme-my-login-ms-signup.php:441
+msgid "Your account is now active!"
+msgstr "حساب کاربری شما در حال حاضر فعال است!"
+
+#: includes/class-theme-my-login-ms-signup.php:425
+msgid "Your account has been activated. You may now <a href=\"%1$s\">login</a> to the site using your chosen username of &#8220;%2$s&#8221;.  Please check your email inbox at %3$s for your password and login instructions. If you do not receive an email, please check your junk or spam folder. If you still do not receive an email within an hour, you can <a href=\"%4$s\">reset your password</a>."
+msgstr "حساب کاربری شما فعال شده است. شما میتوانید اکنون <a href=\"%1$s\">وارد شوید</a> به سایت با حساب کاربری &#8220;%2$s&#8221;.لطفا ایمیل خود را %3$s برای رمز عبور و دستورالعمل ورود به سیستم چک کنید. اگر شما ایمیلی را دریافت نمی کنید، لطفا پوشه Junk و یا Spam خود را چک کنید.اگر شما تا یک ساعت هنوز ایمیلی دریافت نکردید، شما می توانید <a href=\"%4$s\">رمز عبور خود را بازیابی کنید</a>."
+
+#: includes/class-theme-my-login-ms-signup.php:427
+msgid "Your site at <a href=\"%1$s\">%2$s</a> is active. You may now log in to your site using your chosen username of &#8220;%3$s&#8221;.  Please check your email inbox at %4$s for your password and login instructions.  If you do not receive an email, please check your junk or spam folder.  If you still do not receive an email within an hour, you can <a href=\"%5$s\">reset your password</a>."
+msgstr "حساب کاربری شما فعال شده است. شما میتوانید اکنون وارد شوید به سایت خود با حساب کاربری &#8220;%3$s&#8221;.  لطفا ایمیل خود را %4$s برای رمز عبور و دستورالعمل ورود به سیستم چک کنید. اگر شما ایمیلی را دریافت نمی کنید، لطفا پوشه Junk  و یا Spam خود را چک کنید.اگر شما تا یک ساعت هنوز ایمیلی دریافت نکردید، شما می توانید <a href=\"%5$s\"> رمز عبور خود را بازیابی کنید</a>."
+
+#: includes/class-theme-my-login-ms-signup.php:432
+msgid "An error occurred during the activation"
+msgstr "خطا در فعال سازی رخ داده است"
+
+#: includes/class-theme-my-login-ms-signup.php:444
+#: templates/ms-signup-user-form.php:16
+msgid "Username:"
+msgstr "نام کاربری :"
+
+#: includes/class-theme-my-login-ms-signup.php:445
+#: modules/custom-passwords/custom-passwords.php:29
+#: modules/custom-passwords/custom-passwords.php:56
+msgid "Password:"
+msgstr "رمز :"
+
+#: includes/class-theme-my-login-ms-signup.php:449
+msgid "Your account is now activated. <a href=\"%1$s\">View your site</a> or <a href=\"%2$s\">Login</a>"
+msgstr "حساب کاربری شما در حال حاضر فعال می باشد. <a href=\"%1$s\">نمایش سایت</a> یا <a href=\"%2$s\">ورود</a>"
+
+#: includes/class-theme-my-login-ms-signup.php:451
+msgid "Your account is now activated. <a href=\"%1$s\">Login</a> or go back to the <a href=\"%2$s\">homepage</a>."
+msgstr "حساب کاربری شما در حال حاضر فعال می باشد. <a href=\"%1$s\">ورود</a> یا برگردید به <a href=\"%2$s\">صفحه اصلی</a>."
+
+#: includes/class-theme-my-login-template.php:137
+msgid "Welcome, %s"
+msgstr "خوش آمدید، %s"
+
+#: includes/class-theme-my-login-template.php:151
+#: includes/class-theme-my-login.php:540
+#: templates/login-form.php:28
+msgid "Log In"
+msgstr "وارد شدن"
+
+#: includes/class-theme-my-login-template.php:315
+#: modules/custom-user-links/custom-user-links.php:82
+msgid "Dashboard"
+msgstr "داشبورد"
+
+#: includes/class-theme-my-login-template.php:316
+#: modules/custom-user-links/custom-user-links.php:83
+#: modules/themed-profiles/admin/themed-profiles-admin.php:66
+msgid "Profile"
+msgstr "شناسنامه"
+
+#: includes/class-theme-my-login-template.php:334
+#: modules/custom-redirection/custom-redirection.php:197
+msgid "Log out"
+msgstr "خاج شدن"
+
+#: includes/class-theme-my-login-template.php:363
+msgid "Register For This Site"
+msgstr "ثبت نام برای این سایت"
+
+#: includes/class-theme-my-login-template.php:366
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "لطفا نام کاربری یا آدرس ایمیل خود را وارد کنید. شما یک لینک برای ایجاد رمز عبور جدید از طریق ایمیل دریافت خواهید کرد."
+
+#: includes/class-theme-my-login-template.php:369
+msgid "Enter your new password below."
+msgstr "رمز عبور جدید خود را در زیر وارد کنید."
+
+#: includes/class-theme-my-login-widget.php:23
+msgid "A login form for your blog."
+msgstr "فرم ورود برای وبلاگ شما."
+
+#: includes/class-theme-my-login-widget.php:88
+msgid "Default Action"
+msgstr "اکشن پیش فرض "
+
+#: includes/class-theme-my-login-widget.php:95
+msgid "Show When Logged In"
+msgstr "نمایش هنگام وارد شدن"
+
+#: includes/class-theme-my-login-widget.php:97
+msgid "Show Title"
+msgstr "نمایش عنوان"
+
+#: includes/class-theme-my-login-widget.php:99
+msgid "Show Login Link"
+msgstr "نمایش لینک ورود"
+
+#: includes/class-theme-my-login-widget.php:101
+msgid "Show Register Link"
+msgstr " نمایش لینک ثبت نام"
+
+#: includes/class-theme-my-login-widget.php:103
+msgid "Show Lost Password Link"
+msgstr "نمایش لینک رمز عبور را فراموش کرده"
+
+#: includes/class-theme-my-login-widget.php:105
+msgid "Show Gravatar"
+msgstr "نمایش گراواتار"
+
+#: includes/class-theme-my-login-widget.php:106
+msgid "Gravatar Size"
+msgstr "سایز گراواتار"
+
+#: includes/class-theme-my-login-widget.php:108
+msgid "Allow Registration"
+msgstr "اجازه ثبت نام"
+
+#: includes/class-theme-my-login-widget.php:110
+msgid "Allow Password Recovery"
+msgstr "اجازه بازیابی پسورد"
+
+#: includes/class-theme-my-login.php:245
+msgid "Sorry, that key does not appear to be valid."
+msgstr "با عرض پوزش، این کلید به نظر نمی رسد که معتبر باشد."
+
+#: includes/class-theme-my-login.php:261
+msgid "The passwords do not match."
+msgstr "رمز های عبور با هم مطابقت ندارند."
+
+#: includes/class-theme-my-login.php:367
+msgid "<strong>ERROR</strong>: Cookies are blocked or not supported by your browser. You must <a href=\"http://www.google.com/cookies.html\">enable cookies</a> to use WordPress."
+msgstr "<strong>خطا</strong>: کوکی ها مسدود شده و یا توسط مرورگر شما پشتیبانی نمی شود. شما باید <a href=\"http://www.google.com/cookies.html\"> فعال کنید کوکی ها </a>را برای استفاده در وردپرس."
+
+#: includes/class-theme-my-login.php:371
+msgid "You are now logged out."
+msgstr "شما در حال حاضر از سیستم خارج شده اید."
+
+#: includes/class-theme-my-login.php:373
+msgid "User registration is currently not allowed."
+msgstr "ثبت نام کاربر در حال حاضر امکان پذیر نیست."
+
+#: includes/class-theme-my-login.php:375
+msgid "Check your e-mail for the confirmation link."
+msgstr " پست الکترونیک خود را برای لینک تایید چک کنید."
+
+#: includes/class-theme-my-login.php:377
+msgid "Your password has been reset."
+msgstr "رمز عبور شما مجددا تنظیم شده است."
+
+#: includes/class-theme-my-login.php:379
+msgid "Registration complete. Please check your e-mail."
+msgstr "ثبت نام انجام شد.لطفا ایمیل خود را بررسی کنید."
+
+#: includes/class-theme-my-login.php:381
+msgid "Your session has expired. Please log-in again."
+msgstr "جلسه شما منقضی شده است.لطفا دوباره وارد شوید."
+
+#: includes/class-theme-my-login.php:383
+msgid "Please log in to continue."
+msgstr "برای ادامه وارد شوید"
+
+#: includes/class-theme-my-login.php:540
+msgid "Log Out"
+msgstr "خروج از سیستم"
+
+#: includes/class-theme-my-login.php:925
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr "<strong>خطا</strong>: نام کاربری یا آدرس ایمیل را وارد کنید."
+
+#: includes/class-theme-my-login.php:929
+msgid "<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr "<strong>خطا</strong>: هیچ کاربری با این آدرس ایمیل وجود دارد."
+
+#: includes/class-theme-my-login.php:941
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr "<strong>خطا</strong>: نام کاربری یا ایمیل نامعتبر است ."
+
+#: includes/class-theme-my-login.php:955
+msgid "Password reset is not allowed for this user"
+msgstr "تنظیم مجدد کلمه عبور برای این کاربر امکان پذیر نیست"
+
+#: includes/class-theme-my-login.php:967
+msgid "Someone requested that the password be reset for the following account:"
+msgstr "کسی درخواست به‌روز رسانی رمز این حساب را داده است:"
+
+#: includes/class-theme-my-login.php:969
+#: modules/custom-email/custom-email.php:692
+#: modules/custom-email/custom-email.php:709
+#: modules/user-moderation/admin/user-moderation-admin.php:164
+#: modules/user-moderation/user-moderation.php:365
+msgid "Username: %s"
+msgstr "نام کاربری : %s"
+
+#: includes/class-theme-my-login.php:970
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "اگر اشتباهی رخ داده، کافیست‌ این نامه را نادیده بگیرید و هیچ اتفاقی نخواهد افتاد."
+
+#: includes/class-theme-my-login.php:971
+msgid "To reset your password, visit the following address:"
+msgstr "برای نوسازی رمزتان‌ این نشانی را ببینید:"
+
+#: includes/class-theme-my-login.php:982
+msgid "[%s] Password Reset"
+msgstr "[%s] نوسازی رمز"
+
+#: includes/class-theme-my-login.php:988
+#: modules/user-moderation/admin/user-moderation-admin.php:53
+#: modules/user-moderation/admin/user-moderation-admin.php:174
+#: modules/user-moderation/admin/user-moderation-admin.php:210
+msgid "The e-mail could not be sent."
+msgstr "ایمیل ارسال نمی شود."
+
+#: includes/class-theme-my-login.php:988
+#: modules/user-moderation/admin/user-moderation-admin.php:53
+#: modules/user-moderation/admin/user-moderation-admin.php:174
+#: modules/user-moderation/admin/user-moderation-admin.php:210
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "دلایل ممکن: میزبان شما ممکن است تابع mail() function را غیر فعال کرده باشد."
+
+#: includes/class-theme-my-login.php:1011
+#: includes/class-theme-my-login.php:1014
+#: includes/class-theme-my-login.php:1019
+#: modules/user-moderation/user-moderation.php:238
+#: modules/user-moderation/user-moderation.php:241
+#: modules/user-moderation/user-moderation.php:246
+msgid "Invalid key"
+msgstr "کلید نامعتبر"
+
+#: includes/class-theme-my-login.php:1059
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr "<strong>خطا</strong>: لطفا یک نام کاربری وارد کنید."
+
+#: includes/class-theme-my-login.php:1061
+msgid "<strong>ERROR</strong>: This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr "<strong>خطا</strong>: این نام کاربری نامعتبر است زیرا از کاراکتر های غیر قانونی استفاده شده. لطفا یک نام کاربری معتبر وارد کنید."
+
+#: includes/class-theme-my-login.php:1064
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr "<strong>خطا</strong>: این نام کاربری قبلا ثبت شده است، لطفا یک نام دیگر انتخاب کنید."
+
+#: includes/class-theme-my-login.php:1069
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr "<strong>خطا</strong>: لطفا آدرس ایمیل خود را تایپ کنید."
+
+#: includes/class-theme-my-login.php:1071
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr "<strong>خطا</strong>: آدرس ایمیل isn&#8217;t صحیح نمی باشد."
+
+#: includes/class-theme-my-login.php:1074
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr "<strong>خطا</strong>: این ایمیل قبلا ثبت شده است، لطفا ایمیل دیگری را وارد کنید."
+
+#: includes/class-theme-my-login.php:1087
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "<strong>خطا</strong>: Couldn&#8217;t register you... لطفا با  <a href=\"mailto:%s\">وب مستر</a> تماس بگیرید !"
+
+#: modules/custom-email/admin/custom-email-admin.php:46
+#: modules/custom-email/admin/custom-email-admin.php:265
+msgid "User Notification"
+msgstr "هشدار از طریق کاربری"
+
+#: modules/custom-email/admin/custom-email-admin.php:49
+msgid "This e-mail will be sent to a new user upon registration."
+msgstr "این ایمیل به کاربر جدید پس از ثبت نام فرستاده خواهد شد."
+
+#: modules/custom-email/admin/custom-email-admin.php:50
+#: modules/custom-email/admin/custom-email-admin.php:269
+msgid "Please be sure to include the variable %user_pass% if using default passwords or else the user will not know their password!"
+msgstr "لطفا مطمئن شوید که شامل متغیر %user_pass% میباشد اگر هم از پسورد پیشفرض استفاده میکنید یا اینکه پسورد خود را نمیدانید"
+
+#: modules/custom-email/admin/custom-email-admin.php:51
+#: modules/custom-email/admin/custom-email-admin.php:81
+#: modules/custom-email/admin/custom-email-admin.php:130
+#: modules/custom-email/admin/custom-email-admin.php:175
+#: modules/custom-email/admin/custom-email-admin.php:224
+#: modules/custom-email/admin/custom-email-admin.php:270
+#: modules/custom-email/admin/custom-email-admin.php:300
+#: modules/custom-email/admin/custom-email-admin.php:348
+msgid "If any field is left empty, the default will be used instead."
+msgstr "اگر هر فیلد سمت چپ خالی باشد، مقدار پیشفرض استفاده میشود."
+
+#: modules/custom-email/admin/custom-email-admin.php:54
+#: modules/custom-email/admin/custom-email-admin.php:87
+#: modules/custom-email/admin/custom-email-admin.php:133
+#: modules/custom-email/admin/custom-email-admin.php:181
+#: modules/custom-email/admin/custom-email-admin.php:227
+#: modules/custom-email/admin/custom-email-admin.php:273
+#: modules/custom-email/admin/custom-email-admin.php:306
+#: modules/custom-email/admin/custom-email-admin.php:351
+msgid "From Name"
+msgstr "نام "
+
+#: modules/custom-email/admin/custom-email-admin.php:57
+#: modules/custom-email/admin/custom-email-admin.php:90
+#: modules/custom-email/admin/custom-email-admin.php:136
+#: modules/custom-email/admin/custom-email-admin.php:184
+#: modules/custom-email/admin/custom-email-admin.php:230
+#: modules/custom-email/admin/custom-email-admin.php:276
+#: modules/custom-email/admin/custom-email-admin.php:309
+#: modules/custom-email/admin/custom-email-admin.php:354
+msgid "From E-mail"
+msgstr "ایمیل"
+
+#: modules/custom-email/admin/custom-email-admin.php:60
+#: modules/custom-email/admin/custom-email-admin.php:93
+#: modules/custom-email/admin/custom-email-admin.php:139
+#: modules/custom-email/admin/custom-email-admin.php:187
+#: modules/custom-email/admin/custom-email-admin.php:233
+#: modules/custom-email/admin/custom-email-admin.php:279
+#: modules/custom-email/admin/custom-email-admin.php:312
+#: modules/custom-email/admin/custom-email-admin.php:357
+msgid "E-mail Format"
+msgstr "فرمت ایمیل"
+
+#: modules/custom-email/admin/custom-email-admin.php:62
+#: modules/custom-email/admin/custom-email-admin.php:95
+#: modules/custom-email/admin/custom-email-admin.php:141
+#: modules/custom-email/admin/custom-email-admin.php:189
+#: modules/custom-email/admin/custom-email-admin.php:235
+#: modules/custom-email/admin/custom-email-admin.php:281
+#: modules/custom-email/admin/custom-email-admin.php:314
+#: modules/custom-email/admin/custom-email-admin.php:359
+msgid "Plain Text"
+msgstr "متن ساده"
+
+#: modules/custom-email/admin/custom-email-admin.php:63
+#: modules/custom-email/admin/custom-email-admin.php:96
+#: modules/custom-email/admin/custom-email-admin.php:142
+#: modules/custom-email/admin/custom-email-admin.php:190
+#: modules/custom-email/admin/custom-email-admin.php:236
+#: modules/custom-email/admin/custom-email-admin.php:282
+#: modules/custom-email/admin/custom-email-admin.php:315
+#: modules/custom-email/admin/custom-email-admin.php:360
+msgid "HTML"
+msgstr "HTML"
+
+#: modules/custom-email/admin/custom-email-admin.php:66
+#: modules/custom-email/admin/custom-email-admin.php:99
+#: modules/custom-email/admin/custom-email-admin.php:145
+#: modules/custom-email/admin/custom-email-admin.php:193
+#: modules/custom-email/admin/custom-email-admin.php:239
+#: modules/custom-email/admin/custom-email-admin.php:285
+#: modules/custom-email/admin/custom-email-admin.php:318
+#: modules/custom-email/admin/custom-email-admin.php:363
+msgid "Subject"
+msgstr "موضوع"
+
+#: modules/custom-email/admin/custom-email-admin.php:69
+#: modules/custom-email/admin/custom-email-admin.php:102
+#: modules/custom-email/admin/custom-email-admin.php:148
+#: modules/custom-email/admin/custom-email-admin.php:196
+#: modules/custom-email/admin/custom-email-admin.php:242
+#: modules/custom-email/admin/custom-email-admin.php:288
+#: modules/custom-email/admin/custom-email-admin.php:321
+#: modules/custom-email/admin/custom-email-admin.php:366
+msgid "Message"
+msgstr "پیام"
+
+#: modules/custom-email/admin/custom-email-admin.php:72
+#: modules/custom-email/admin/custom-email-admin.php:105
+#: modules/custom-email/admin/custom-email-admin.php:151
+#: modules/custom-email/admin/custom-email-admin.php:199
+#: modules/custom-email/admin/custom-email-admin.php:245
+#: modules/custom-email/admin/custom-email-admin.php:291
+#: modules/custom-email/admin/custom-email-admin.php:324
+#: modules/custom-email/admin/custom-email-admin.php:369
+msgid "Available Variables"
+msgstr "متغیرهای موجود"
+
+#: modules/custom-email/admin/custom-email-admin.php:77
+#: modules/custom-email/admin/custom-email-admin.php:171
+#: modules/custom-email/admin/custom-email-admin.php:296
+msgid "Admin Notification"
+msgstr "هشدار مدیریت"
+
+#: modules/custom-email/admin/custom-email-admin.php:80
+msgid "This e-mail will be sent to the e-mail address or addresses (multiple addresses may be separated by commas) specified below, upon new user registration."
+msgstr "این ایمیل به آدرس ایمیل و یا آدرس ها (آدرس چندگانه توسط کاما از هم جدا می شود) مشخص شده در زیر ، پس از ثبت نام کاربر جدید ارسال می شود."
+
+#: modules/custom-email/admin/custom-email-admin.php:84
+#: modules/custom-email/admin/custom-email-admin.php:178
+#: modules/custom-email/admin/custom-email-admin.php:303
+msgid "To"
+msgstr "به"
+
+#: modules/custom-email/admin/custom-email-admin.php:128
+msgid "This e-mail will be sent to a user when they attempt to recover their password."
+msgstr "این ایمیل به کاربر فرستاده می شود زمانی که آنها در تلاش برای بازیابی رمز عبور خود هستند."
+
+#: modules/custom-email/admin/custom-email-admin.php:129
+msgid "Please be sure to include the variable %reseturl% or else the user will not be able to recover their password!"
+msgstr "لطفا از وارد شدن متغیر %reseturl% اطمینان حاصل نمایید، وگرنه کاربر توانایی بازیابی رمز عبور خود را نخواهد داشت!"
+
+#: modules/custom-email/admin/custom-email-admin.php:174
+msgid "This e-mail will be sent to the e-mail address or addresses (multiple addresses may be separated by commas) specified below, upon user password change."
+msgstr "این ایمیل به محض تغییر رمز عبور توسط کاربران، برای نشانی یا نشانی های ایمیل (چندین آدرس ایمیل که با یک جداکننده از هم جدا شده باشند) تعریف شده در زیر ارسال خواهد شد."
+
+#: modules/custom-email/admin/custom-email-admin.php:201
+#: modules/custom-email/admin/custom-email-admin.php:326
+msgid "Disable Admin Notification"
+msgstr "غیر فعال کردن هشدار به مدیریت"
+
+#: modules/custom-email/admin/custom-email-admin.php:222
+msgid "This e-mail will be sent to a new user upon registration when \"E-mail Confirmation\" is checked for \"User Moderation\"."
+msgstr "این ایمیل در صورت فعال بودن گزینه \"تاییدیه ایمیل\" در بخش \"مدیریت کاربر\" به محض عضویت کاربری جدید، برای وی ارسال خواهد شد."
+
+#: modules/custom-email/admin/custom-email-admin.php:223
+msgid "Please be sure to include the variable %activateurl% or else the user will not be able to activate their account!"
+msgstr "لطفا از وارد شدن متغیر %activateurl% اطمینان حاصل نمایید، وگرنه کاربر توانایی فعال سازی حساب کاربری خود را نخواهد داشت!"
+
+#: modules/custom-email/admin/custom-email-admin.php:268
+msgid "This e-mail will be sent to a new user upon admin approval when \"Admin Approval\" is checked for \"User Moderation\"."
+msgstr "این ایمیل در صورت فعال بودن گزینه \"تایید ادمین\" در بخش \"مدیریت کاربر\" به محض تایید کاربر توسط مدیریت، برای وی ارسال خواهد شد."
+
+#: modules/custom-email/admin/custom-email-admin.php:299
+msgid "This e-mail will be sent to the e-mail address or addresses (multiple addresses may be separated by commas) specified below upon user registration when \"Admin Approval\" is checked for \"User Moderation\"."
+msgstr "این ایمیل در صورت فعال بودن گزینه \"تایید ادمین\" در بخش \"مدیریت کاربر\" به محض عضویت کاربر جدید، برای نشانی یا نشانی های ایمیل (چندین آدرس ایمیل که با یک جداکننده از هم جدا شده باشند) تعریف شده در زیر ارسال خواهد شد."
+
+#: modules/custom-email/admin/custom-email-admin.php:347
+msgid "This e-mail will be sent to a user who is deleted/denied when \"Admin Approval\" is checked for \"User Moderation\" and the user's role is \"Pending\"."
+msgstr "این ایمیل زمانی به کاربر ارسال خواهد شد که \"تایید ادمین\" در قسمت  \"مدیریت کاربر\" فعال بوده و نقش کاربر \"در انتظار تایید\" باشد."
+
+#: modules/custom-email/admin/custom-email-admin.php:390
+#: templates/profile-form.php:143
+#: templates/register-form.php:16
+msgid "E-mail"
+msgstr "ایمیل"
+
+#: modules/custom-email/admin/custom-email-admin.php:391
+msgid "New User"
+msgstr "کاربر جدید"
+
+#: modules/custom-email/admin/custom-email-admin.php:392
+msgid "Retrieve Password"
+msgstr "کلمه عبور فراموش شده"
+
+#: modules/custom-email/admin/custom-email-admin.php:393
+#: templates/resetpass-form.php:26
+msgid "Reset Password"
+msgstr "بازیابی کلمه عبور"
+
+#: modules/custom-email/admin/custom-email-admin.php:395
+msgid "User Activation"
+msgstr "فعال سازی کاربری"
+
+#: modules/custom-email/admin/custom-email-admin.php:396
+msgid "User Approval"
+msgstr "تایید کاربری"
+
+#: modules/custom-email/admin/custom-email-admin.php:397
+msgid "User Denial"
+msgstr "رد این کاربر"
+
+#: modules/custom-email/custom-email.php:691
+msgid "New user registration on your site %s:"
+msgstr "ثبت نام کاربر جدید در سایت شما:"
+
+#: modules/custom-email/custom-email.php:693
+#: modules/user-moderation/user-moderation.php:366
+msgid "E-mail: %s"
+msgstr "ایمیل: %s"
+
+#: modules/custom-email/custom-email.php:695
+msgid "[%s] New User Registration"
+msgstr "[%s] ثبت نام کاربر جدید"
+
+#: modules/custom-email/custom-email.php:710
+#: modules/user-moderation/admin/user-moderation-admin.php:165
+msgid "Password: %s"
+msgstr "کلمه عبور: %s"
+
+#: modules/custom-email/custom-email.php:713
+msgid "[%s] Your username and password"
+msgstr "[%s] نام کاربری و رمز"
+
+#: modules/custom-email/custom-email.php:745
+msgid "[%s] Password Lost/Changed"
+msgstr "[%s] فراموشی کلمه عبور/تغییر"
+
+#: modules/custom-email/custom-email.php:746
+msgid "Password Lost and Changed for user: %s"
+msgstr "رمز عبور را فراموش کرده اید و تغییر یافته برای کاربر: %s"
+
+#: modules/custom-passwords/custom-passwords.php:31
+#: modules/custom-passwords/custom-passwords.php:63
+msgid "Confirm Password:"
+msgstr "تکرار رمز عبور:"
+
+#: modules/custom-passwords/custom-passwords.php:61
+msgid "(Must be at least 6 characters.)"
+msgstr "(باید حداقل 6 کاراکتر داشته باشد.)"
+
+#: modules/custom-passwords/custom-passwords.php:65
+msgid "Confirm that you've typed your password correctly."
+msgstr "تأیید کنید که شما رمز عبور خود را به درستی تایپ کرده اید."
+
+#: modules/custom-passwords/custom-passwords.php:103
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>خطا</strong>: لطفا یک رمز عبور وارد کنید."
+
+#: modules/custom-passwords/custom-passwords.php:106
+msgid "<strong>ERROR</strong>: Your passwords do not match."
+msgstr "<strong>خطا</strong>: کلمه عبور مطابقت ندارند."
+
+#: modules/custom-passwords/custom-passwords.php:109
+msgid "<strong>ERROR</strong>: Your password must be at least 6 characters in length."
+msgstr "<strong>خطا</strong>: رمز عبور شما باید حداقل 6 کاراکتر باشد."
+
+#: modules/custom-passwords/custom-passwords.php:230
+msgid "Registration complete. You may now log in."
+msgstr "با موفقیت پبت نام کردید. اکنون وارد شوید."
+
+#: modules/custom-redirection/custom-redirection.php:156
+msgid "Redirection"
+msgstr "ریدایرکت"
+
+#: modules/custom-redirection/custom-redirection.php:185
+msgid "Log in"
+msgstr "وارد شوید"
+
+#: modules/custom-redirection/custom-redirection.php:187
+#: modules/custom-redirection/custom-redirection.php:199
+msgid "Default"
+msgstr "پیش فرض"
+
+#: modules/custom-redirection/custom-redirection.php:188
+msgid "Check this option to send the user to their WordPress Dashboard/Profile."
+msgstr "این گزینه کاربر را به صفحه پیشخوان یا شناسنامه هدایت میکنه."
+
+#: modules/custom-redirection/custom-redirection.php:189
+#: modules/custom-redirection/custom-redirection.php:201
+msgid "Referer"
+msgstr "ارجاع"
+
+#: modules/custom-redirection/custom-redirection.php:190
+msgid "Check this option to send the user back to the page they were visiting before logging in."
+msgstr "این گزینه کاربر را به همان صفحه ای که قبل از اقدام به ورود در حال مشاهده بود باز بر میگرداند."
+
+#: modules/custom-redirection/custom-redirection.php:193
+#: modules/custom-redirection/custom-redirection.php:205
+msgid "Check this option to send the user to a custom location, specified by the textbox above."
+msgstr "این گزینه کاربر رو به آدرسی دلخواه که شما در این کادر قرار میدهید ارسال میکند."
+
+#: modules/custom-redirection/custom-redirection.php:200
+msgid "Check this option to send the user to the log in page, displaying a message that they have successfully logged out."
+msgstr "با انتخاب این گزینه کاربر به صفحه ورود ارسال میشه، و نمایش یک پیام که آنها با موفقیت از سیستم خارج شدند."
+
+#: modules/custom-redirection/custom-redirection.php:202
+msgid "Check this option to send the user back to the page they were visiting before logging out. (Note: If the previous page being visited was an admin page, this can have unexpected results.)"
+msgstr "این گزینه کاربر را به همان صفحه ای که قبل از اقدام به خروج در حال مشاهده بوده باز میگرداند. (نکته:اگه صفحه ای که قبلا مشاهده میکرده صفحه مدیریت باشد، می تواند نتایج غیر منتظره ای داشته باشد.)"
+
+#: modules/custom-user-links/admin/custom-user-links-admin.php:140
+msgid "User Links"
+msgstr "لینکهای کاربر"
+
+#: modules/custom-user-links/admin/custom-user-links-admin.php:232
+#: modules/custom-user-links/admin/custom-user-links-admin.php:255
+#: modules/custom-user-links/admin/custom-user-links-admin.php:300
+msgid "Title"
+msgstr "عنوان"
+
+#: modules/custom-user-links/admin/custom-user-links-admin.php:233
+#: modules/custom-user-links/admin/custom-user-links-admin.php:256
+#: modules/custom-user-links/admin/custom-user-links-admin.php:304
+msgid "URL"
+msgstr "URL"
+
+#: modules/custom-user-links/admin/custom-user-links-admin.php:250
+msgid "Add New link:"
+msgstr "افزودن لینک جدید:"
+
+#: modules/custom-user-links/admin/custom-user-links-admin.php:266
+msgid "Add link"
+msgstr "افزودن لینک"
+
+#: modules/custom-user-links/admin/custom-user-links-admin.php:306
+msgid "Delete"
+msgstr "حذف کردن"
+
+#: modules/custom-user-links/admin/custom-user-links-admin.php:307
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: modules/security/admin/security-admin.php:32
+#: modules/security/admin/security-admin.php:35
+#: modules/user-moderation/admin/user-moderation-admin.php:34
+#: modules/user-moderation/admin/user-moderation-admin.php:44
+msgid "You can&#8217;t edit that user."
+msgstr "شما می توانید&#8217;t   کاربر را ویرایش کنید."
+
+#: modules/security/admin/security-admin.php:67
+msgid "User locked."
+msgstr "کاربر قفل شده است."
+
+#: modules/security/admin/security-admin.php:69
+msgid "User unlocked."
+msgstr "کاربر باز شده است."
+
+#: modules/security/admin/security-admin.php:92
+msgid "Unlock"
+msgstr "باز"
+
+#: modules/security/admin/security-admin.php:94
+msgid "Lock"
+msgstr "قفل"
+
+#: modules/security/admin/security-admin.php:113
+msgid "Security"
+msgstr "امنیت"
+
+#: modules/security/admin/security-admin.php:132
+msgid "Private Site"
+msgstr "خصوصی کردن سایت"
+
+#: modules/security/admin/security-admin.php:135
+msgid "Require users to be logged in to view site"
+msgstr "کاربران برای مشاهده سایت باید وارد شوند."
+
+#: modules/security/admin/security-admin.php:139
+msgid "Login Attempts"
+msgstr "تلاش ها برای ورود"
+
+#: modules/security/admin/security-admin.php:144
+msgid "minute(s)"
+msgstr "دقیقه"
+
+#: modules/security/admin/security-admin.php:145
+msgid "hour(s)"
+msgstr "ساعت"
+
+#: modules/security/admin/security-admin.php:146
+msgid "day(s)"
+msgstr "روز"
+
+#: modules/security/admin/security-admin.php:169
+msgid "After %1$s failed login attempts within %2$s %3$s, lockout the account for %4$s %5$s."
+msgstr "پس از %1$s تلاش ناموفق برای ورود در %2$s %3$s,  حساب کاربری برای %4$s %5$s قفل میشود."
+
+#: modules/security/security.php:64
+#: modules/security/security.php:90
+msgid "<strong>ERROR</strong>: This account has been locked because of too many failed login attempts. You may try again in %s."
+msgstr "<strong>خطا</strong>: این حساب به دلیل تلاش بیش از حد ناموفق ورود به سیستم قفل شده است. شما %s دوباره امتحان کنید ."
+
+#: modules/security/security.php:66
+msgid "<strong>ERROR</strong>: This account has been locked."
+msgstr "<strong>خطا</strong>: این حساب قفل شده است."
+
+#: modules/security/security.php:126
+msgid "Failed Login Attempts"
+msgstr "تلاش برای ورود شکست خورد"
+
+#: modules/security/security.php:130
+msgid "IP Address"
+msgstr "IP آدرس"
+
+#: modules/security/security.php:131
+msgid "Date"
+msgstr "تاریخ"
+
+#: modules/security/security.php:134
+msgid "Y/m/d g:i:s A"
+msgstr ""
+
+#: modules/security/security.php:139
+msgid "%s ago"
+msgstr "%s قبل"
+
+#: modules/security/security.php:141
+msgid "Y/m/d"
+msgstr ""
+
+#: modules/themed-profiles/admin/themed-profiles-admin.php:23
+#: modules/themed-profiles/admin/themed-profiles-admin.php:42
+msgid "Themed Profiles"
+msgstr "پوسته شناسنامه"
+
+#: modules/themed-profiles/admin/themed-profiles-admin.php:51
+msgid "Restrict Admin Access"
+msgstr "قطع دسترسی به محیط پیشخوان"
+
+#: modules/themed-profiles/themed-profiles.php:123
+#: templates/profile-form.php:182
+#: templates/resetpass-form.php:19
+msgid "Strength indicator"
+msgstr "شاخص قدرت"
+
+#: modules/themed-profiles/themed-profiles.php:124
+msgid "Very weak"
+msgstr "بسیار ضعیف"
+
+#: modules/themed-profiles/themed-profiles.php:125
+msgid "Weak"
+msgstr "ضعیف"
+
+#. translators: password strength
+#: modules/themed-profiles/themed-profiles.php:127
+msgctxt "password strength"
+msgid "Medium"
+msgstr "متوسط"
+
+#: modules/themed-profiles/themed-profiles.php:128
+msgid "Strong"
+msgstr "قوی"
+
+#: modules/themed-profiles/themed-profiles.php:138
+msgid "You do not have permission to edit this user."
+msgstr "شما اجازه دسترسی برای ویرایش این کاربر را ندارید."
+
+#: modules/themed-profiles/themed-profiles.php:154
+msgid "Profile updated."
+msgstr "شناسنامه به روز شد."
+
+#: modules/themed-profiles/themed-profiles.php:243
+msgid "Your Profile"
+msgstr "پروفایل شما"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:75
+msgid "User approved."
+msgstr "کاربر تایید شده است."
+
+#: modules/user-moderation/admin/user-moderation-admin.php:77
+msgid "Activation sent."
+msgstr "ایمیل فعال سازی ارسال شد."
+
+#: modules/user-moderation/admin/user-moderation-admin.php:105
+msgid "Resend Activation"
+msgstr "ارسال مجدد لینک فعال سازی"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:110
+msgid "Approve"
+msgstr "تایید شده"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:163
+msgid "You have been approved access to %s"
+msgstr "اجازه دسترسی شما مورد تایید قرار گرفته به %s"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:168
+msgid "[%s] Registration Approved"
+msgstr "[%s] ثبت نام تایید شده"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:203
+msgid "You have been denied access to %s"
+msgstr "اجازه دسترسی شما رد شده است به %s"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:204
+msgid "[%s] Registration Denied"
+msgstr "[%s] تایید نشدن ثبت نام"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:226
+msgid "Moderation"
+msgstr "مدیریت"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:242
+msgid "User Moderation"
+msgstr "مدیریت کاربر"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:245
+msgid "None"
+msgstr "هیچ یک"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:246
+msgid "Check this option to require no moderation."
+msgstr "با انتخاب این گزینه نیاز به بررسی مدیریت ندارد."
+
+#: modules/user-moderation/admin/user-moderation-admin.php:248
+msgid "E-mail Confirmation"
+msgstr "تأییدیه ایمیل"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:249
+msgid "Check this option to require new users to confirm their e-mail address before they may log in."
+msgstr "با انتخاب این گزینه کاربران جدیدی که ثبت نام میکنند باید ایمیل خود را تایید کنند تا بتوانند وارد شوند"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:251
+msgid "Admin Approval"
+msgstr "تایید ادمین"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:252
+msgid "Check this option to require new users to be approved by an administrator before they may log in."
+msgstr "با انتخاب این گزینه کاربران جدیدی که ثبت نام میکنند باید توسط ادمین تایید شوند تا بتوانند وارد شوند"
+
+#: modules/user-moderation/admin/user-moderation-admin.php:269
+msgid "User Moderation is not currently compatible with multisite."
+msgstr "مدیریت کاربر سازگار با سیستم چند سایته نمیباشد."
+
+#: modules/user-moderation/user-moderation.php:163
+msgid "<strong>ERROR</strong>: You have not yet confirmed your e-mail address. <a href=\"%s\">Resend activation</a>?"
+msgstr "<strong>خطا</strong>: شما هنوز آدرس ایمیل خود را تایید نکرده اید. <a href=\"%s\">ارسال مجدد لینک فعال سازی</a>?"
+
+#: modules/user-moderation/user-moderation.php:166
+msgid "<strong>ERROR</strong>: Your registration has not yet been approved."
+msgstr "<strong>خطا</strong>: ثبت نام شما هنوز تایید نشده است."
+
+#: modules/user-moderation/user-moderation.php:328
+msgid "[%s] Activate Your Account"
+msgstr "[%s] فعال کردن حساب کاربری شما"
+
+#: modules/user-moderation/user-moderation.php:329
+msgid "Thanks for registering at %s! To complete the activation of your account please click the following link: "
+msgstr "تشکر برای ثبت نام در %s! برای تکمیل فعال سازی حساب کاربری خود لطفا لینک زیر را کلیک کنید:"
+
+#: modules/user-moderation/user-moderation.php:362
+msgid "[%s] New User Awaiting Approval"
+msgstr "[%s] کاربر جدید در انتظار تایید "
+
+#: modules/user-moderation/user-moderation.php:364
+msgid "New user requires approval on your blog %s:"
+msgstr "کاربر تازه نیاز به تایید در وبلاگ شما: %s:"
+
+#: modules/user-moderation/user-moderation.php:367
+msgid "To approve or deny this user:"
+msgstr "برای تایید یا رد این کاربر:"
+
+#: modules/user-moderation/user-moderation.php:388
+msgid "Your registration was successful but you must now confirm your email address before you can log in. Please check your email and click on the link provided."
+msgstr "ثبت نام شما موفقیت آمیز بود، اما شما در حال حاضر، باید آدرس ایمیل خود را تأیید کنید قبل از اینکه وارد شوید لطفا ایمیل خود را بررسی کنید و بر روی لینک ارائه شده کلیک کنید."
+
+#: modules/user-moderation/user-moderation.php:390
+msgid "Your registration was successful but you must now be approved by an administrator before you can log in. You will be notified by e-mail once your account has been reviewed."
+msgstr "ثبت نام شما موفقیت آمیز بود، اما شما در حال حاضر باید توسط مدیر تایید شوید قبل از اینکه وارد شوید، شما میتوانید از طریق ایمیل هشداری برای بازبینی دهید."
+
+#: modules/user-moderation/user-moderation.php:393
+msgid "Your account has been activated. You may now log in."
+msgstr "حساب کاربری شما فعال شده است.شما میتوانید هم اکنون وارد شوید."
+
+#: modules/user-moderation/user-moderation.php:395
+msgid "Your account has been activated. Please check your e-mail for your password."
+msgstr "حساب کاربری شما فعال شده است.لطفا ایمیل خود را برای رمز عبور خود بررسی کنید."
+
+#: modules/user-moderation/user-moderation.php:397
+msgid "<strong>ERROR</strong>: Sorry, that key does not appear to be valid."
+msgstr "<strong>خطا</strong>: با عرض پوزش، این کلید به نظر نمی رسد که معتبر باشد."
+
+#: modules/user-moderation/user-moderation.php:400
+msgid "<strong>ERROR</strong>: Sorry, the activation e-mail could not be sent."
+msgstr "<strong>خطا</strong>: با عرض پوزش، ایمیل فعال سازی حساب کاربری نمی تواند ارسال شود."
+
+#: modules/user-moderation/user-moderation.php:402
+msgid "The activation e-mail has been sent to the e-mail address with which you registered. Please check your email and click on the link provided."
+msgstr "ایمیل فعال سازی به آدرس پست الکترونیکی که با آن ثبت نام کرده اید فرستاده می شود. لطفا ایمیل خود را بررسی کنید و بر روی لینک ارائه شده کلیک کنید."
+
+#: templates/login-form.php:12
+#: templates/profile-form.php:91
+#: templates/register-form.php:12
+msgid "Username"
+msgstr "نام کاربری"
+
+#: templates/login-form.php:16
+msgid "Password"
+msgstr "رمز عبور"
+
+#: templates/login-form.php:25
+msgid "Remember Me"
+msgstr "من را به خاطر داشته باش"
+
+#: templates/lostpassword-form.php:12
+msgid "Username or E-mail:"
+msgstr "نام کاربری یا ایمیل:"
+
+#: templates/lostpassword-form.php:20
+msgid "Get New Password"
+msgstr "دریافت رمز عبور جدید"
+
+#: templates/ms-signup-another-blog-form.php:7
+msgid "Get <em>another</em> %s site in seconds"
+msgstr "ساختن <em>یک سایت</em> %s در چند ثانیه"
+
+#: templates/ms-signup-another-blog-form.php:10
+msgid "There was a problem, please correct the form below and try again."
+msgstr "یک مشکل وجود دارد، لطفا فرم زیر را تصحیح کنید و دوباره امتحان کنید."
+
+#: templates/ms-signup-another-blog-form.php:13
+msgid "Welcome back, %s. By filling out the form below, you can <strong>add another site to your account</strong>. There is no limit to the number of sites you can have, so create to your heart&#8217;s content, but write responsibly!"
+msgstr " %s، خوش آمدید. بار کردن فرم زیر، می توانید <strong>وب سایت دیگری</strong> را به حساب خود اضافه کنید. در تعداد این وب سایت ها محدودیتی وجود ندارد، پس هرچه دلتان می خواهد بنویسید، اما نسبت به آنچه می نویسید مسئولیت پذیر باشید!"
+
+#: templates/ms-signup-another-blog-form.php:18
+msgid "Sites you are already a member of:"
+msgstr "سایت شما قبلا توسط کاربری استفاده شده:"
+
+#: templates/ms-signup-another-blog-form.php:27
+msgid "If you&#8217;re not going to use a great site domain, leave it for a new user. Now have at it!"
+msgstr "اگر مایل نیستید از یک دامنه استفاده کنید، هن اکنون شانس استفاده از آن را به فرد دیگری بدهید!"
+
+#: templates/ms-signup-another-blog-form.php:33
+#: templates/ms-signup-blog-form.php:17
+msgid "Site Name:"
+msgstr "نام سایت:"
+
+#: templates/ms-signup-another-blog-form.php:35
+#: templates/ms-signup-blog-form.php:19
+msgid "Site Domain:"
+msgstr "دامنه سایت:"
+
+#: templates/ms-signup-another-blog-form.php:52
+#: templates/ms-signup-blog-form.php:36
+msgid "sitename"
+msgstr "نام سایت"
+
+#: templates/ms-signup-another-blog-form.php:54
+#: templates/ms-signup-blog-form.php:38
+msgid "domain"
+msgstr "دامین"
+
+#: templates/ms-signup-another-blog-form.php:55
+#: templates/ms-signup-blog-form.php:39
+msgid "Your address will be %s."
+msgstr "آدرس شما %s خواهد بود ."
+
+#: templates/ms-signup-another-blog-form.php:55
+#: templates/ms-signup-blog-form.php:39
+msgid "Must be at least 4 characters, letters and numbers only. It cannot be changed, so choose carefully!"
+msgstr " حداقل باید 4 کاراکتر باشد، حروف و اعداد. این نمی تواند تغییر کند، بنابراین لازم است که با دقت انتخاب کنید!"
+
+#: templates/ms-signup-another-blog-form.php:58
+#: templates/ms-signup-blog-form.php:42
+msgid "Site Title:"
+msgstr "عنوان سایت:"
+
+#: templates/ms-signup-another-blog-form.php:66
+#: templates/ms-signup-blog-form.php:50
+msgid "Privacy:"
+msgstr "حریم شخصی:"
+
+#: templates/ms-signup-another-blog-form.php:67
+#: templates/ms-signup-blog-form.php:51
+msgid "Allow my site to appear in search engines like Google, Technorati, and in public listings around this network."
+msgstr "اجازه می دهد سایت من در موتورهای جستجو مانند گوگل، تکنوراتی و لیست های عمومی در سراسر این شبکه ظاهر شود."
+
+#: templates/ms-signup-another-blog-form.php:71
+#: templates/ms-signup-blog-form.php:55
+msgid "Yes"
+msgstr "بله"
+
+#: templates/ms-signup-another-blog-form.php:75
+#: templates/ms-signup-blog-form.php:59
+msgid "No"
+msgstr "نه"
+
+#: templates/ms-signup-another-blog-form.php:85
+msgid "Create Site"
+msgstr "ایجاد سایت"
+
+#: templates/ms-signup-blog-form.php:69
+msgid "Signup"
+msgstr "ثبت نام"
+
+#: templates/ms-signup-user-form.php:7
+msgid "Get your own %s account in seconds"
+msgstr "ساختن حساب برای خود %s در چند ثانیه"
+
+#: templates/ms-signup-user-form.php:22
+msgid "(Must be at least 4 characters, letters and numbers only.)"
+msgstr "(باید حداقل 4 کاراکتر باشد، تنها حروف و اعداد.)"
+
+#: templates/ms-signup-user-form.php:24
+msgid "Email&nbsp;Address:"
+msgstr "آدرس&nbsp;ایمیل:"
+
+#: templates/ms-signup-user-form.php:30
+msgid "We send your registration email to this address. (Double-check your email address before continuing.)"
+msgstr "ما ایمیل تایید ثبت نام شما را به این آدرس میفرستیم. (دوبار آدرس پست الکترونیکی خود را قبل از ادامه چک کنید.)"
+
+#: templates/ms-signup-user-form.php:47
+msgid "Gimme a site!"
+msgstr "یک سایت بدهید!"
+
+#: templates/ms-signup-user-form.php:50
+msgid "Just a username, please."
+msgstr "فقط یک نام کاربری، لطفا."
+
+#: templates/ms-signup-user-form.php:54
+msgid "Next"
+msgstr "بعدی"
+
+#: templates/profile-form.php:26
+msgid "Personal Options"
+msgstr "گزینه‌های شخصی"
+
+#: templates/profile-form.php:31
+msgid "Visual Editor"
+msgstr "ویرایشگر دیداری"
+
+#: templates/profile-form.php:32
+msgid "Disable the visual editor when writing"
+msgstr " غیرفعال کردن ویرایشگر دیداری هنگام نوشتن"
+
+#: templates/profile-form.php:37
+msgid "Admin Color Scheme"
+msgstr "تغییر رنگ پیشخوان"
+
+#: templates/profile-form.php:44
+msgid "Keyboard Shortcuts"
+msgstr "میان‌بُرها"
+
+#: templates/profile-form.php:45
+msgid "Enable keyboard shortcuts for comment moderation."
+msgstr "فعال‌سازی میانبُرهای تخته‌کلید برای مدیریت دیدگاه‌ها."
+
+#: templates/profile-form.php:45
+msgid "<a href=\"http://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blank\">More information</a>"
+msgstr "<a href=\"http://codex.wordpress.org/Keyboard_Shortcuts\" target=\"_blank\">اطلاعات بیشتر</a>"
+
+#: templates/profile-form.php:51
+#: templates/profile-form.php:54
+msgid "Toolbar"
+msgstr "نوار ابزار"
+
+#: templates/profile-form.php:57
+msgid "Show Toolbar when viewing site"
+msgstr "نمایش نوارابزار هنگام مشاهده سایت"
+
+#: templates/profile-form.php:63
+#: templates/profile-form.php:66
+msgid "Show Admin Bar"
+msgstr "نمایش نوار مدیریت"
+
+#. translators: Show admin bar when viewing site
+#: templates/profile-form.php:69
+msgid "when viewing site"
+msgstr "در هنگام مشاهده سایت است"
+
+#. translators: Show admin bar in dashboard
+#: templates/profile-form.php:74
+msgid "in dashboard"
+msgstr "در داشبورد"
+
+#: templates/profile-form.php:87
+msgid "Name"
+msgstr "نام"
+
+#: templates/profile-form.php:92
+msgid "Your username cannot be changed."
+msgstr " شناسه‌ نمی‌تواند عوض شود."
+
+#: templates/profile-form.php:96
+msgid "First name"
+msgstr "نام"
+
+#: templates/profile-form.php:101
+msgid "Last name"
+msgstr "فامیلی"
+
+#: templates/profile-form.php:106
+msgid "Nickname"
+msgstr "لقب"
+
+#: templates/profile-form.php:106
+#: templates/profile-form.php:143
+msgid "(required)"
+msgstr "لازم"
+
+#: templates/profile-form.php:111
+msgid "Display name publicly as"
+msgstr "نمایش عمومی نام"
+
+#: templates/profile-form.php:139
+msgid "Contact Info"
+msgstr "اطلاعات تماس"
+
+#: templates/profile-form.php:148
+msgid "Website"
+msgstr "وبلاگ"
+
+#: templates/profile-form.php:165
+msgid "About Yourself"
+msgstr "درباره‌ی خودتان"
+
+#: templates/profile-form.php:169
+msgid "Biographical Info"
+msgstr "زندگی‌نامه"
+
+#: templates/profile-form.php:171
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr " زندگی‌نامه‌ای کوچک بنویسید تا بخش شناسنامه شما پر شده و ‌برای همه نمایش داده ‌شود."
+
+#: templates/profile-form.php:179
+msgid "New Password"
+msgstr "رمز تازه"
+
+#: templates/profile-form.php:180
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr " اگر می‌خواهید رمز کاربران را به‌روز کنید، رمز تازه را بنویسید. وگرنه آن را خالی بگذارید."
+
+#: templates/profile-form.php:181
+msgid "Type your new password again."
+msgstr " رمز تازه‌ی خود را دوباره بنویسید."
+
+#: templates/profile-form.php:183
+#: templates/resetpass-form.php:20
+msgid "Hint: The password should be at least seven characters long. To make it stronger, use upper and lower case letters, numbers and symbols like ! \" ? $ % ^ &amp; )."
+msgstr "تذکر: رمز شما باید از ۷ حرف بیشتر باشد. برای قوی‌تر کردن آن از حروف بزرگ و کوچک٬ اعداد و سمبل‌هایی مانند ! \" ? $ % ^ & ) استفاده کنید."
+
+#: templates/profile-form.php:197
+msgid "Additional Capabilities"
+msgstr "قابلیت های اضافی"
+
+#: templates/profile-form.php:216
+msgid "Update Profile"
+msgstr "به روزرسانی شناسنامه"
+
+#: templates/register-form.php:23
+msgid "A password will be e-mailed to you."
+msgstr "رمز عبور به ایمیل شما ارسال شد."
+
+#: templates/resetpass-form.php:12
+msgid "New password"
+msgstr "رمز تازه"
+
+#: templates/resetpass-form.php:16
+msgid "Confirm new password"
+msgstr "تکرار رمز"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.jfarthing.com/extend/wordpress-plugins/theme-my-login/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Themes the WordPress login, registration and forgot password pages according to your theme."
+msgstr "برای تغییر ظاهر صفحه های ورود. ثبت نام و فراموشی رمز عبور بر اساس تم وردپرس شما می باشد."
+
+#. Author of the plugin/theme
+msgid "Jeff Farthing"
+msgstr "جف فارثینگ"
+
+#. Author URI of the plugin/theme
+msgid "http://www.jfarthing.com"
+msgstr ""
+
